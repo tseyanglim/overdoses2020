@@ -3,7 +3,7 @@
 
 Model, data, and output files for submitted manuscript:
 
-  Stringfellow et al., "Enumerating contributions of fentanyls and other factors to the unprecedented rise in opioid overdose deaths in 2020: a model-based analysis"
+>Stringfellow et al., "Enumerating contributions of fentanyls and other factors to the unprecedented 2020 rise in opioid overdose deaths: model-based analysis"
 
 ---
 [**Results & analysis summary.xlsx**](Results%20%26%20analysis%20summary.xlsx) contains aggregated results from model outputs, as well as basic replication instructions.
