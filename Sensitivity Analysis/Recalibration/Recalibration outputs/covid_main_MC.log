@@ -1,0 +1,628 @@
+WARNING:     146 chains; progress may be slow.
+Floating point error during optimization with.
+------------------.
+ *ADF effect strength initiating heroin with Rx OUD = 1e-06.
+ *Base survival probability H OD relative to Rx = 0.917102.
+ *Base survival probability Rx OD = 0.986337.
+ *Developing HUD rate no Rx OUD  = 0.05.
+ *Developing HUD rate with Rx OUD  = 0.806892.
+ *Developing Rx OUD rate  = 0.086723.
+ *Fentanyl effect on base survival max relative to H = 0.274999.
+ *Fentanyl effect on OD rate H max = 7.
+ *Fraction Nx kits to H users  = 0.926166.
+ *Heroin availability strength developing HUD = 0.828216.
+ *Heroin availability strength initiating NDHU no Rx = 1e-06.
+ *Heroin availability strength net quit NDHU = 2.
+ *Initial stock correction[RXM] = 1.10845.
+ *Initial stock correction[NDH] = 1.05859.
+ *Initial stock correction[OUB] = 0.865966.
+ *Initial stock correction[OUM] = 0.8.
+ *Initial stock correction[OUV] = 1.08324.
+ *Initial stock correction[OUT] = 0.997502.
+ *Initial stock correction[OUR] = 0.8.
+ *Initial stock correction[OUS] = 0.852591.
+ *Initial stock correction[OHB] = 0.837644.
+ *Initial stock correction[OHM] = 0.878027.
+ *Initial stock correction[OHV] = 1.05112.
+ *Initial stock correction[OHT] = 1.2.
+ *Initial stock correction[OHR] = 0.8.
+ *Initial stock correction[OHS] = 0.8.
+ *Initial stock correction[HUB] = 0.927427.
+ *Initial stock correction[HUM] = 0.978835.
+ *Initial stock correction[HUV] = 1.2.
+ *Initial stock correction[HUT] = 0.8.
+ *Initial stock correction[HUR] = 1.11541.
+ *Initial stock correction[HUS] = 1.03577.
+ *Initiating heroin no Rx base  = 47862.8.
+ *Initiating Rx misuse diverted base  = 2.05871e+06.
+ *Initiation rate heroin with Rx misuse  = 0.0210881.
+ *Initiation rate heroin with Rx OUD relative to Rx misuse = 5.
+ *Initiation rate Rx misuse own Rx  = 0.0952625.
+ *Net quit rate heroin with Rx misuse  = 0.01.
+ *Net quit rate heroin with Rx OUD  = 0.0586694.
+ *Net quit rate NDHU  = 0.345722.
+ *Net quit rate Rx misuse = 0.151572.
+ *NSDUH misuse redefinition fixed effect = 0.5.
+ *Nx kit distribution efficiency = 0.00145607.
+ *Overdose rate base HUD = 0.2.
+ *Overdose rate NDHU relative to HUD = 0.25.
+ *Overdose rate base Rx misuse = 0.0201027.
+ *Overdose rate base Rx OUD = 0.193631.
+ *Overdose rate synth baseline = 0.0131393.
+ *Perceived risk strength initiating heroin with Rx use = 1e-06.
+ *Perceived risk strength initiating NDHU no Rx = 0.537072.
+ *Perceived risk strength initiating Rx misuse diverted = 1e-06.
+ *Perceived risk strength initiating Rx misuse own Rx = 0.293626.
+ *Perceived risk strength net quit heroin with Rx OUD = 0.211993.
+ *Perceived risk strength net quit NDHU = 1e-06.
+ *Perceived risk strength net quit NDHU with Rx = 1e-06.
+ *Perceived risk strength net quit Rx misuse = 1e-06.
+ *Relapse rate HUD = 0.438095.
+ *Relapse rate Rx OUD relative to HUD = 0.05.
+ *Remission rate Rx OUD relative to HUD = 1.
+ *Rx availability strength developing Rx OUD = 1.76051.
+ *Rx availability strength initiating Rx misuse = 0.792113.
+ *Rx availability strength net quit Rx misuse = 1.55289.
+ *Rx vs H availability strength developing HUD with Rx OUD = 2.
+ *Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+ *Rx vs H availability strength initiating NDHU with Rx = 0.250854.
+ *Social influence strength developing HUD = 0.618423.
+ *Social influence strength developing Rx OUD = 1e-06.
+ *Social influence strength initiating heroin with Rx OUD = 2.
+ *Social influence strength initiating NDHU no Rx = 0.23422.
+ *Social influence strength initiating NDHU with Rx = 2.
+ *Social influence strength initiating Rx misuse = 1.84912.
+ *Time to stabilize remission = 13.8196.
+ *Tx seeking rate Rx OUD no H total = 0.841297.
+------------------.
+1 NUMA nodes, 18 processor cores, 1 processor packages, 1 processor groups, 32 logical processors.
+Started 46 helper threads.
+Thread 0 in group 0 on processor 1.
+Thread 1 in group 0 on processor 3.
+Thread 2 in group 0 on processor 5.
+Thread 3 in group 0 on processor 7.
+Thread 4 in group 0 on processor 9.
+Thread 5 in group 0 on processor 11.
+Thread 6 in group 0 on processor 13.
+Thread 7 in group 0 on processor 15.
+Thread 8 in group 0 on processor 17.
+Thread 9 in group 0 on processor 21.
+Thread 10 in group 0 on processor 23.
+Thread 11 in group 0 on processor 25.
+Thread 12 in group 0 on processor 27.
+Thread 13 in group 0 on processor 29.
+Thread 14 in group 0 on processor 31.
+Thread 15 in group 0 on processor 2.
+Thread 16 in group 0 on processor 4.
+Thread 17 in group 0 on processor 6.
+Thread 18 in group 0 on processor 8.
+Thread 19 in group 0 on processor 10.
+Thread 20 in group 0 on processor 12.
+Thread 21 in group 0 on processor 14.
+Thread 22 in group 0 on processor 16.
+Thread 23 in group 0 on processor 18.
+Thread 24 in group 0 on processor 20.
+Thread 25 in group 0 on processor 22.
+Thread 26 in group 0 on processor 24.
+Thread 27 in group 0 on processor 26.
+Thread 28 in group 0 on processor 28.
+Thread 29 in group 0 on processor 30.
+Iteration 1897.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.483811.
+	Max PSRF 3.64973, 25/74 < 1.2.
+Iteration 3503.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.432441.
+	Max PSRF 2.30821, 47/74 < 1.2.
+	Cross-match convergence P = 3.05771e-06.
+Iteration 5255.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.386587.
+	Max PSRF 1.70023, 50/74 < 1.2.
+	Cross-match convergence P = 4.10979e-05.
+Iteration 7007.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.355279.
+	Max PSRF 1.70215, 53/74 < 1.2.
+	Cross-match convergence P = 0.000134333.
+Iteration 8905.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.334511.
+	Max PSRF 1.80446, 56/74 < 1.2.
+	Cross-match convergence P = 0.322199.
+Iteration 10803.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.312439.
+	Max PSRF 1.50472, 64/74 < 1.2.
+	Cross-match convergence P = 0.000688514.
+Iteration 12847.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.295672.
+	Max PSRF 1.36915, 69/74 < 1.2.
+	Cross-match convergence P = 0.119795.
+Iteration 15037.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.279393.
+	Max PSRF 1.41628, 70/74 < 1.2.
+	Cross-match convergence P = 0.671373.
+Iteration 17373.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.262728.
+	Max PSRF 1.41303, 70/74 < 1.2.
+	Cross-match convergence P = 0.0236516.
+Iteration 19709.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.247719.
+	Max PSRF 1.38542, 69/74 < 1.2.
+	Cross-match convergence P = 0.0477149.
+Iteration 22191.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.232359.
+	Max PSRF 1.37306, 70/74 < 1.2.
+	Cross-match convergence P = 0.396144.
+Iteration 24819.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.219889.
+	Max PSRF 1.33297, 70/74 < 1.2.
+	Cross-match convergence P = 0.000236034.
+Iteration 27593.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.208164.
+	Max PSRF 1.30159, 73/74 < 1.2.
+	Cross-match convergence P = 0.203092.
+Iteration 30513.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.197961.
+	Max PSRF 1.25441, 73/74 < 1.2.
+	Cross-match convergence P = 0.089686.
+Iteration 33579.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.188714.
+	Max PSRF 1.24407, 73/74 < 1.2.
+	Cross-match convergence P = 0.203092.
+Iteration 36791.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.179401.
+	Max PSRF 1.30302, 73/74 < 1.2.
+	Cross-match convergence P = 0.00297947.
+Iteration 40149.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.172088.
+	Max PSRF 1.33415, 72/74 < 1.2.
+	Cross-match convergence P = 0.0659921.
+Iteration 43653.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.162989.
+	Max PSRF 1.32461, 73/74 < 1.2.
+	Cross-match convergence P = 0.887537.
+Iteration 47449.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.154355.
+	Max PSRF 1.31937, 72/74 < 1.2.
+	Cross-match convergence P = 0.0659921.
+Iteration 51391.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.146641.
+	Max PSRF 1.28502, 72/74 < 1.2.
+	Cross-match convergence P = 0.0338949.
+Iteration 55479.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.140253.
+	Max PSRF 1.26736, 73/74 < 1.2.
+	Cross-match convergence P = 0.4795.
+Iteration 59859.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.133907.
+	Max PSRF 1.25467, 73/74 < 1.2.
+	Cross-match convergence P = 0.887537.
+Iteration 64385.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.128482.
+	Max PSRF 1.23745, 73/74 < 1.2.
+	Cross-match convergence P = 0.157299.
+Iteration 69203.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.122679.
+	Max PSRF 1.20547, 73/74 < 1.2.
+	Cross-match convergence P = 0.157299.
+Iteration 74313.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.117948.
+	Max PSRF 1.17626, 74/74 < 1.2.
+	Cross-match convergence P = 0.089686.
+Iteration 79569.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.113616.
+	Max PSRF 1.15905, 74/74 < 1.2.
+	Cross-match convergence P = 0.571608.
+Iteration 85117.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.109381.
+	Max PSRF 1.17006, 74/74 < 1.2.
+	Cross-match convergence P = 0.0659921.
+Iteration 90957.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.105485.
+	Max PSRF 1.1962, 74/74 < 1.2.
+	Cross-match convergence P = 0.571608.
+Iteration 97089.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.101788.
+	Max PSRF 1.21332, 73/74 < 1.2.
+	Cross-match convergence P = 0.396144.
+Iteration 103659.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0983255.
+	Max PSRF 1.24772, 73/74 < 1.2.
+	Cross-match convergence P = 0.0477149.
+Iteration 110521.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0957931.
+	Max PSRF 1.25784, 73/74 < 1.2.
+	Cross-match convergence P = 0.671373.
+Iteration 117675.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0936358.
+	Max PSRF 1.28796, 73/74 < 1.2.
+	Cross-match convergence P = 0.00186285.
+Iteration 125267.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0914774.
+	Max PSRF 1.23754, 73/74 < 1.2.
+	Cross-match convergence P = 0.4795.
+Iteration 133297.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0894074.
+	Max PSRF 1.21061, 73/74 < 1.2.
+	Cross-match convergence P = 0.000688514.
+Iteration 141619.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0870171.
+	Max PSRF 1.19904, 74/74 < 1.2.
+	Cross-match convergence P = 0.203092.
+Iteration 150379.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.085311.
+	Max PSRF 1.20582, 73/74 < 1.2.
+	Cross-match convergence P = 0.777297.
+Iteration 159723.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0838051.
+	Max PSRF 1.19172, 74/74 < 1.2.
+	Cross-match convergence P = 0.257899.
+Iteration 169505.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0821695.
+	Max PSRF 1.1822, 74/74 < 1.2.
+	Cross-match convergence P = 0.0236516.
+Iteration 179725.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0805798.
+	Max PSRF 1.16995, 74/74 < 1.2.
+	Cross-match convergence P = 0.0659921.
+Iteration 190529.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0799704.
+	Max PSRF 1.15658, 74/74 < 1.2.
+	Cross-match convergence P = 0.119795.
+Iteration 201917.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.079122.
+	Max PSRF 1.11123, 74/74 < 1.2.
+	Cross-match convergence P = 0.887537.
+Iteration 213889.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0782812.
+	Max PSRF 1.09998, 74/74 < 1.2.
+	Cross-match convergence P = 0.0236516.
+Iteration 226445.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0772038.
+	Max PSRF 1.10212, 74/74 < 1.2.
+	Cross-match convergence P = 0.00467773.
+Iteration 239731.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0764496.
+	Max PSRF 1.09368, 74/74 < 1.2.
+	Cross-match convergence P = 0.4795.
+Iteration 253747.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0760175.
+	Max PSRF 1.08219, 74/74 < 1.2.
+	Cross-match convergence P = 0.571608.
+Iteration 268493.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0756358.
+	Max PSRF 1.08251, 74/74 < 1.2.
+	Cross-match convergence P = 0.4795.
+Iteration 283969.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0753395.
+	Max PSRF 1.08359, 74/74 < 1.2.
+	Cross-match convergence P = 0.157299.
+Iteration 300175.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0750512.
+	Max PSRF 1.08041, 74/74 < 1.2.
+	Cross-match convergence P = 1.
+Iteration 317257.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.075146.
+	Max PSRF 1.065, 74/74 < 1.2.
+	Cross-match convergence P = 0.119795.
+Iteration 335215.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0747113.
+	Max PSRF 1.06698, 74/74 < 1.2.
+	Cross-match convergence P = 0.322199.
+Iteration 354195.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.074152.
+	Max PSRF 1.06788, 74/74 < 1.2.
+	Cross-match convergence P = 1.
+Iteration 374197.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0738809.
+	Max PSRF 1.06709, 74/74 < 1.2.
+	Cross-match convergence P = 0.089686.
+Iteration 395221.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0739459.
+	Max PSRF 1.06084, 74/74 < 1.2.
+	Cross-match convergence P = 0.571608.
+Iteration 417267.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0739119.
+	Max PSRF 1.05477, 74/74 < 1.2.
+	Cross-match convergence P = 0.089686.
+Iteration 440481.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0740904.
+	Max PSRF 1.05231, 74/74 < 1.2.
+	Cross-match convergence P = 1.
+Iteration 465009.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0742628.
+	Max PSRF 1.04986, 74/74 < 1.2.
+	Cross-match convergence P = 0.0659921.
+Iteration 490705.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.074508.
+	Max PSRF 1.04875, 74/74 < 1.2.
+	Cross-match convergence P = 0.089686.
+Iteration 517861.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0752331.
+	Max PSRF 1.04857, 74/74 < 1.2.
+	Cross-match convergence P = 0.322199.
+Iteration 546331.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0760044.
+	Max PSRF 1.04375, 74/74 < 1.2.
+	Cross-match convergence P = 0.257899.
+Iteration 576407.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0768811.
+	Max PSRF 1.04237, 74/74 < 1.2.
+	Cross-match convergence P = 0.157299.
+Iteration 607943.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0777727.
+	Max PSRF 1.04213, 74/74 < 1.2.
+	Cross-match convergence P = 0.157299.
+Iteration 641231.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0785524.
+	Max PSRF 1.04088, 74/74 < 1.2.
+	Cross-match convergence P = 0.119795.
+Iteration 676271.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0794631.
+	Max PSRF 1.03938, 74/74 < 1.2.
+	Cross-match convergence P = 0.671373.
+Iteration 713063.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0803055.
+	Max PSRF 1.02981, 74/74 < 1.2.
+	Cross-match convergence P = 0.119795.
+Iteration 751753.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0809244.
+	Max PSRF 1.02911, 74/74 < 1.2.
+	Cross-match convergence P = 0.0477149.
+Iteration 792487.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0814544.
+	Max PSRF 1.029, 74/74 < 1.2.
+	Cross-match convergence P = 0.0338949.
+Iteration 835411.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0822144.
+	Max PSRF 1.03009, 74/74 < 1.2.
+	Cross-match convergence P = 0.887537.
+Iteration 880671.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0825526.
+	Max PSRF 1.02828, 74/74 < 1.2.
+	Cross-match convergence P = 0.0477149.
+Iteration 928267.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0831627.
+	Max PSRF 1.02934, 74/74 < 1.2.
+	Cross-match convergence P = 0.119795.
+Iteration 978345.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0835482.
+	Max PSRF 1.02263, 74/74 < 1.2.
+	Cross-match convergence P = 0.0477149.
+Iteration 1031051.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.083878.
+	Max PSRF 1.02382, 74/74 < 1.2.
+	Cross-match convergence P = 0.089686.
+Iteration 1086531.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0843115.
+	Max PSRF 1.02727, 74/74 < 1.2.
+	Cross-match convergence P = 0.322199.
+Iteration 1144931.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0846913.
+	Max PSRF 1.02929, 74/74 < 1.2.
+	Cross-match convergence P = 0.0236516.
+Iteration 1206397.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0852903.
+	Max PSRF 1.01968, 74/74 < 1.2.
+	Cross-match convergence P = 0.0659921.
+Iteration 1271075.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0857589.
+	Max PSRF 1.01626, 74/74 < 1.2.
+	Cross-match convergence P = 0.257899.
+Iteration 1339111.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0860018.
+	Max PSRF 1.01854, 74/74 < 1.2.
+	Cross-match convergence P = 0.0659921.
+Iteration 1410797.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0858204.
+	Max PSRF 1.01601, 74/74 < 1.2.
+	Cross-match convergence P = 0.00114318.
+Iteration 1486279.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0860061.
+	Max PSRF 1.01358, 74/74 < 1.2.
+	Cross-match convergence P = 1.67151e-07.
+Iteration 1565703.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0968711.
+	Max PSRF 1.27655, 73/74 < 1.2.
+	Cross-match convergence P = 3.05771e-06.
+Iteration 1649215.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0939143.
+	Max PSRF 1.13082, 74/74 < 1.2.
+	Cross-match convergence P = 0.396144.
+Iteration 1737107.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.091851.
+	Max PSRF 1.07142, 74/74 < 1.2.
+	Cross-match convergence P = 0.00467773.
+Iteration 1829671.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0910154.
+	Max PSRF 1.04121, 74/74 < 1.2.
+	Cross-match convergence P = 0.089686.
+Iteration 1927053.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0907245.
+	Max PSRF 1.04001, 74/74 < 1.2.
+	Cross-match convergence P = 1.
+Iteration 2029691.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.091237.
+	Max PSRF 1.03133, 74/74 < 1.2.
+	Cross-match convergence P = 0.000134333.
+Iteration 2137731.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0913276.
+	Max PSRF 1.03641, 74/74 < 1.2.
+	Cross-match convergence P = 0.000688514.
+Iteration 2251319.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0903758.
+	Max PSRF 1.03992, 74/74 < 1.2.
+	Cross-match convergence P = 0.396144.
+Iteration 2370893.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0902936.
+	Max PSRF 1.03227, 74/74 < 1.2.
+	Cross-match convergence P = 0.00114318.
+Iteration 2496745.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0908965.
+	Max PSRF 1.02568, 74/74 < 1.2.
+	Cross-match convergence P = 0.000406952.
+Iteration 2500103.
+	Annealing temperature = 1.
+	Acceptance Rate = 0.0908823.
+	Max PSRF 1.02517, 74/74 < 1.2.
+	Cross-match convergence P = 0.671373.
+Shutting down 46 helper threads.
+NOTE Payoff (-63367.3) realized at multiple parameter values.
+With ADF effect strength initiating heroin with Rx OUD = 1.24139e-06 and 0.23713.
+With Base survival probability H OD relative to Rx = 0.973495 and 0.9746.
+With Base survival probability Rx OD = 0.971488 and 0.970573.
+With Developing HUD rate no Rx OUD  = 0.05 and 0.0501728.
+With Developing HUD rate with Rx OUD  = 0.477404 and 0.462916.
+With Developing Rx OUD rate  = 0.033287 and 0.0336047.
+With Fentanyl effect on base survival max relative to H = 0.599999 and 0.796544.
+With Fentanyl effect on OD rate H max = 5.00001 and 2.03748.
+With Fraction Nx kits to H users  = 0.943349 and 0.935422.
+With Heroin availability strength developing HUD = 1e-06 and 0.00518011.
+With Heroin availability strength initiating NDHU no Rx = 3.05327e-06 and 1e-06.
+With Heroin availability strength net quit NDHU = 1.24238 and 1.04377.
+With Initial stock correction[RXM] = 1.11727 and 1.13459.
+With Initial stock correction[NDH] = 1.2 and 1.19603.
+With Initial stock correction[OUB] = 1.01636 and 1.11407.
+With Initial stock correction[OUM] = 0.8 and 1.12774.
+With Initial stock correction[OUV] = 0.866141 and 1.0531.
+With Initial stock correction[OUT] = 0.861746 and 0.855594.
+With Initial stock correction[OUR] = 0.8 and 0.832275.
+With Initial stock correction[OUS] = 0.8 and 0.80008.
+With Initial stock correction[OHB] = 0.935709 and 1.15683.
+With Initial stock correction[OHM] = 0.8 and 0.8.
+With Initial stock correction[OHV] = 0.89015 and 0.857624.
+With Initial stock correction[OHT] = 1.2 and 0.996793.
+With Initial stock correction[OHR] = 0.8 and 0.837558.
+With Initial stock correction[OHS] = 0.8 and 0.8.
+With Initial stock correction[HUB] = 0.963138 and 0.965896.
+With Initial stock correction[HUM] = 1.2 and 1.16182.
+With Initial stock correction[HUV] = 1.15111 and 1.12911.
+With Initial stock correction[HUT] = 0.8 and 0.808333.
+With Initial stock correction[HUR] = 0.956333 and 0.90487.
+With Initial stock correction[HUS] = 1.2 and 1.19885.
+With Initiating heroin no Rx base  = 119458 and 118807.
+With Initiating Rx misuse diverted base  = 1.80653e+06 and 1.84567e+06.
+With Initiation rate heroin with Rx misuse  = 0.01346 and 0.0131499.
+With Initiation rate heroin with Rx OUD relative to Rx misuse = 4.03065 and 4.05772.
+With Initiation rate Rx misuse own Rx  = 0.0358678 and 0.0338907.
+With Net quit rate heroin with Rx misuse  = 0.098863 and 0.0916425.
+With Net quit rate heroin with Rx OUD  = 0.0100005 and 0.0104879.
+With Net quit rate NDHU  = 0.5 and 0.487601.
+With Net quit rate Rx misuse = 0.179999 and 0.127825.
+With NSDUH misuse redefinition fixed effect = 0.38 and 0.472255.
+With Nx kit distribution efficiency = 0.000344097 and 0.000353198.
+With Overdose rate base HUD = 0.186928 and 0.184339.
+With Overdose rate NDHU relative to HUD = 0.250001 and 0.280163.
+With Overdose rate base Rx misuse = 0.01 and 0.00118497.
+With Overdose rate base Rx OUD = 0.326569 and 0.312528.
+With Overdose rate synth baseline = 0.0117527 and 0.0115839.
+With Perceived risk strength initiating heroin with Rx use = 0.870428 and 0.840203.
+With Perceived risk strength initiating NDHU no Rx = 0.256509 and 0.253267.
+With Perceived risk strength initiating Rx misuse diverted = 0.425934 and 0.425627.
+With Perceived risk strength initiating Rx misuse own Rx = 0.554434 and 0.542068.
+With Perceived risk strength net quit heroin with Rx OUD = 1.25197e-06 and 1e-06.
+With Perceived risk strength net quit NDHU = 1.03143e-06 and 0.0076515.
+With Perceived risk strength net quit NDHU with Rx = 1e-06 and 0.0743444.
+With Perceived risk strength net quit Rx misuse = 0.781017 and 0.697004.
+With Relapse rate HUD = 0.556286 and 0.558724.
+With Relapse rate Rx OUD relative to HUD = 0.138871 and 0.124617.
+With Remission rate Rx OUD relative to HUD = 1 and 1.00454.
+With Rx availability strength developing Rx OUD = 1.23783 and 1.26614.
+With Rx availability strength initiating Rx misuse = 0.194437 and 0.0305078.
+With Rx availability strength net quit Rx misuse = 1.7511 and 1.89056.
+With Rx vs H availability strength developing HUD with Rx OUD = 1.71579 and 1.79772.
+With Rx vs H availability strength initiating heroin with Rx OUD = 4.00563e-06 and 1e-06.
+With Rx vs H availability strength initiating NDHU with Rx = 0.0273104 and 0.0203693.
+With Social influence strength developing HUD = 2.84745e-06 and 0.0166609.
+With Social influence strength developing Rx OUD = 1.81299e-06 and 0.0124307.
+With Social influence strength initiating heroin with Rx OUD = 2 and 1.98223.
+With Social influence strength initiating NDHU no Rx = 0.106789 and 0.116718.
+With Social influence strength initiating NDHU with Rx = 1.82769 and 1.87081.
+With Social influence strength initiating Rx misuse = 0.839051 and 0.935692.
+With Time to stabilize remission = 9.53192 and 9.59904.
+With Tx seeking rate Rx OUD no H total = 0.65 and 0.425037.

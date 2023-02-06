@@ -1,0 +1,2991 @@
+1 NUMA nodes, 18 processor cores, 1 processor packages, 1 processor groups, 32 logical processors.
+WARNING:     MAX_THREADS (46) > reported number of processors (32); attempting anyway..
+Started 46 helper threads.
+Thread 0 in group 0 on processor 1.
+Thread 1 in group 0 on processor 3.
+Thread 2 in group 0 on processor 5.
+Thread 3 in group 0 on processor 7.
+Thread 4 in group 0 on processor 9.
+Thread 5 in group 0 on processor 11.
+Thread 6 in group 0 on processor 13.
+Thread 7 in group 0 on processor 15.
+Thread 8 in group 0 on processor 17.
+Thread 9 in group 0 on processor 19.
+Thread 10 in group 0 on processor 21.
+Thread 11 in group 0 on processor 23.
+Thread 12 in group 0 on processor 25.
+Thread 13 in group 0 on processor 27.
+Thread 14 in group 0 on processor 29.
+Thread 15 in group 0 on processor 31.
+Thread 16 in group 0 on processor 2.
+Thread 17 in group 0 on processor 4.
+Thread 18 in group 0 on processor 6.
+Thread 19 in group 0 on processor 8.
+Thread 20 in group 0 on processor 10.
+Thread 21 in group 0 on processor 12.
+Thread 22 in group 0 on processor 14.
+Thread 23 in group 0 on processor 16.
+Thread 24 in group 0 on processor 20.
+Thread 25 in group 0 on processor 22.
+Thread 26 in group 0 on processor 24.
+Thread 27 in group 0 on processor 26.
+Thread 28 in group 0 on processor 28.
+Thread 29 in group 0 on processor 30.
+WARNING:     Affinities for threads 30 to 46 unassigned.
+Initial point of search.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.95722.
+  Base survival probability Rx OD = 0.973556.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.58331.
+  Developing Rx OUD rate  = 0.0284949.
+  Fentanyl effect on base survival max relative to H = 0.6.
+  Fentanyl effect on OD rate H max = 5.
+  Fraction Nx kits to H users  = 0.95.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1e-06.
+  Heroin availability strength net quit NDHU = 1.39693.
+  Initial stock correction[RXM] = 1.18608.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 1.13256.
+  Initial stock correction[OUM] = 0.800338.
+  Initial stock correction[OUV] = 1.06029.
+  Initial stock correction[OUT] = 0.991305.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 0.919736.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 1.05315.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.948642.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.09595.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 1.2.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119773.
+  Initiating Rx misuse diverted base  = 1.94202e+06.
+  Initiation rate heroin with Rx misuse  = 0.0133755.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.34153.
+  Initiation rate Rx misuse own Rx  = 0.0353929.
+  Net quit rate heroin with Rx misuse  = 0.108035.
+  Net quit rate heroin with Rx OUD  = 0.0583352.
+  Net quit rate NDHU  = 0.498175.
+  Net quit rate Rx misuse = 0.18.
+  NSDUH misuse redefinition fixed effect = 0.38.
+  Nx kit distribution efficiency = 0.000338648.
+  Overdose rate base HUD = 0.11142.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.01.
+  Overdose rate base Rx OUD = 0.256766.
+  Overdose rate synth baseline = 0.00532792.
+  Perceived risk strength initiating heroin with Rx use = 0.908839.
+  Perceived risk strength initiating NDHU no Rx = 0.200601.
+  Perceived risk strength initiating Rx misuse diverted = 0.527308.
+  Perceived risk strength initiating Rx misuse own Rx = 0.6219.
+  Perceived risk strength net quit heroin with Rx OUD = 1e-06.
+  Perceived risk strength net quit NDHU = 0.00204408.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.626352.
+  Relapse rate HUD = 0.611464.
+  Relapse rate Rx OUD relative to HUD = 0.131705.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.27235.
+  Rx availability strength initiating Rx misuse = 0.0852859.
+  Rx availability strength net quit Rx misuse = 1.79136.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.26197.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.21739.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 0.0392942.
+  Social influence strength initiating heroin with Rx OUD = 1.91685.
+  Social influence strength initiating NDHU no Rx = 0.0435766.
+  Social influence strength initiating NDHU with Rx = 1.76272.
+  Social influence strength initiating Rx misuse = 0.817203.
+  Time to stabilize remission = 9.74513.
+  Tx seeking rate Rx OUD no H total = 0.65.
+Simulations = 1.
+Optimizations = 1.
+Pass = 0.
+Payoff = -66192.3.
+---------------------------------.
+NOTE Payoff (-63402.5) realized at multiple parameter values.
+NOTE Payoff (-63402.5) realized at multiple parameter values.
+NOTE Payoff (-63402.5) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948642.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63400) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63395.3) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63395.3) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63387.6) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63384.9) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.919736 and 0.919739.
+NOTE Payoff (-63384.3) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63381.3) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.919736 and 0.919739.
+NOTE Payoff (-63378.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63378.7) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63375.9) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63374) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63374) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948644.
+NOTE Payoff (-63373.4) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.919736 and 0.919738.
+NOTE Payoff (-63372.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.919736 and 0.919738.
+NOTE Payoff (-63372.3) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63372.2) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63371.8) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948644.
+NOTE Payoff (-63371.3) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948644.
+NOTE Payoff (-63370.2) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.919742.
+NOTE Payoff (-63369.2) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63368.5) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63368) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63368) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.919741.
+NOTE Payoff (-63367.6) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63367.6) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63367.6) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63367.4) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63367) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.919741.
+NOTE Payoff (-63365.1) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63364.6) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63364.4) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63363.8) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.919741.
+NOTE Payoff (-63363) realized at multiple parameter values.
+With Initial stock correction[RXM] = 1.19504 and 1.19676.
+With Initiation rate heroin with Rx OUD relative to Rx misuse = 4.2512 and 4.25962.
+With Overdose rate base HUD = 0.120218 and 0.120043.
+With Perceived risk strength initiating heroin with Rx use = 0.893165 and 0.896294.
+With Rx vs H availability strength initiating NDHU with Rx = 0.120549 and 0.11029.
+NOTE Payoff (-63362.6) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63362.3) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.919741.
+NOTE Payoff (-63359.9) realized at multiple parameter values.
+NOTE Payoff (-63359.9) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63359.9) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63359.5) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63359.5) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.91974.
+NOTE Payoff (-63359.2) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63359.2) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63359.1) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63357.9) realized at multiple parameter values.
+NOTE Payoff (-63357.9) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63357.3) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.91974.
+NOTE Payoff (-63357) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63357) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63356.8) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63356.8) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948642.
+NOTE Payoff (-63356.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63356.3) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63356) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63356) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63355.9) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948642.
+NOTE Payoff (-63355.8) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63355.1) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948642.
+NOTE Payoff (-63355) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63354.5) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.919743.
+NOTE Payoff (-63354.5) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948645.
+NOTE Payoff (-63354.4) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.0603.
+NOTE Payoff (-63354.2) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63354.2) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09596.
+NOTE Payoff (-63354) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63353.6) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63353.3) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13256 and 1.13256.
+NOTE Payoff (-63353.2) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63353.2) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63353) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63353) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+With Initial stock correction[HUV] = 1.09595 and 1.09595.
+NOTE Payoff (-63353) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+With Initial stock correction[HUV] = 1.09595 and 1.09596.
+NOTE Payoff (-63352.7) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09596 and 1.09596.
+NOTE Payoff (-63352.5) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948645.
+NOTE Payoff (-63352.4) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63352.1) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09596 and 1.09596.
+NOTE Payoff (-63351.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13258 and 1.13258.
+NOTE Payoff (-63350.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.919741.
+NOTE Payoff (-63350.6) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.0603.
+NOTE Payoff (-63350.6) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.13259 and 1.13259.
+NOTE Payoff (-63350.6) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.919741.
+NOTE Payoff (-63350.5) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09596 and 1.09597.
+NOTE Payoff (-63350.4) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.0603.
+NOTE Payoff (-63350.3) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63350.3) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09596 and 1.09596.
+NOTE Payoff (-63350.3) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63350.2) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948643.
+NOTE Payoff (-63350) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63349.9) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.948642 and 0.948643.
+NOTE Payoff (-63349.9) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+NOTE Payoff (-63349.9) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.05315 and 1.05315.
+With Initial stock correction[HUV] = 1.09596 and 1.09596.
+NOTE Payoff (-63349.8) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09596 and 1.09596.
+NOTE Payoff (-63349.5) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.91974 and 0.91974.
+NOTE Payoff (-63349.4) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.06029 and 1.06029.
+NOTE Payoff (-63349) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09596 and 1.09596.
+NOTE Payoff (-63349) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09596 and 1.09596.
+NOTE Payoff (-63348.3) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.09596 and 1.09596.
+Maximum payoff found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.971235.
+  Base survival probability Rx OD = 0.972869.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.47789.
+  Developing Rx OUD rate  = 0.0332769.
+  Fentanyl effect on base survival max relative to H = 0.799651.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.946587.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1e-06.
+  Heroin availability strength net quit NDHU = 1.20077.
+  Initial stock correction[RXM] = 1.10966.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 1.13259.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 1.0603.
+  Initial stock correction[OUT] = 0.868054.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 0.91974.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 1.05315.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.948642.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.09596.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.911973.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119228.
+  Initiating Rx misuse diverted base  = 1.87281e+06.
+  Initiation rate heroin with Rx misuse  = 0.0134882.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.029.
+  Initiation rate Rx misuse own Rx  = 0.0356581.
+  Net quit rate heroin with Rx misuse  = 0.0920752.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.119284.
+  NSDUH misuse redefinition fixed effect = 0.460678.
+  Nx kit distribution efficiency = 0.000342506.
+  Overdose rate base HUD = 0.184476.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.342793.
+  Overdose rate synth baseline = 0.0117008.
+  Perceived risk strength initiating heroin with Rx use = 0.874209.
+  Perceived risk strength initiating NDHU no Rx = 0.252491.
+  Perceived risk strength initiating Rx misuse diverted = 0.473703.
+  Perceived risk strength initiating Rx misuse own Rx = 0.544406.
+  Perceived risk strength net quit heroin with Rx OUD = 1e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.717142.
+  Relapse rate HUD = 0.560475.
+  Relapse rate Rx OUD relative to HUD = 0.138549.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.27043.
+  Rx availability strength initiating Rx misuse = 0.335577.
+  Rx availability strength net quit Rx misuse = 1.6019.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.70807.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.0321329.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.103297.
+  Social influence strength initiating NDHU with Rx = 1.8188.
+  Social influence strength initiating Rx misuse = 0.772892.
+  Time to stabilize remission = 9.53587.
+  Tx seeking rate Rx OUD no H total = 0.448825.
+Simulations = 151022.
+Optimizations = 1.
+Pass = 3.
+Payoff = -63348.2.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	86206       	151022      .
+Iterations                    	104         	190         .
+ ADF effect strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Base survival probability H OD relative to Rx	0.95708486  	0.97123505  .
+ Base survival probability Rx OD	0.96772088  	0.97286928  .
+ Developing HUD rate no Rx OUD 	0.050000001 	0.050000001 .
+ Developing HUD rate with Rx OUD 	0.52299679  	0.47789016  .
+ Developing Rx OUD rate       	0.031288849 	0.033276904 .
+ Fentanyl effect on base survival max relative to H	0.71995471  	0.79965115  .
+ Fentanyl effect on OD rate H max	2           	2           .
+ Fraction Nx kits to H users  	0.94999999  	0.94658745  .
+ Heroin availability strength developing HUD	1e-06       	1e-06       .
+ Heroin availability strength initiating NDHU no Rx	1e-06       	1e-06       .
+ Heroin availability strength net quit NDHU	1.3183873   	1.2007658   .
+ Initial stock correction[RXM]	1.1550571   	1.1096627   .
+ Initial stock correction[NDH]	1.2         	1.2         .
+ Initial stock correction[OUB]	1.1325602   	1.1325854   .
+ Initial stock correction[OUM]	0.8         	0.8         .
+ Initial stock correction[OUV]	1.0602921   	1.0602956   .
+ Initial stock correction[OUT]	0.91729483  	0.86805359  .
+ Initial stock correction[OUR]	0.80000001  	0.80000001  .
+ Initial stock correction[OUS]	0.80000001  	0.80000001  .
+ Initial stock correction[OHB]	0.91973968  	0.91973968  .
+ Initial stock correction[OHM]	0.80000001  	0.80000001  .
+ Initial stock correction[OHV]	1.0531525   	1.0531525   .
+ Initial stock correction[OHT]	1.2         	1.2         .
+ Initial stock correction[OHR]	0.80000001  	0.80000001  .
+ Initial stock correction[OHS]	0.80000001  	0.80000001  .
+ Initial stock correction[HUB]	0.94864222  	0.94864222  .
+ Initial stock correction[HUM]	1.2         	1.2         .
+ Initial stock correction[HUV]	1.0959506   	1.0959637   .
+ Initial stock correction[HUT]	0.80000001  	0.80000003  .
+ Initial stock correction[HUR]	0.94716268  	0.91197295  .
+ Initial stock correction[HUS]	1.2         	1.2         .
+ Initiating heroin no Rx base 	119445.39   	119228.19   .
+ Initiating Rx misuse diverted base 	1843587.5   	1872810     .
+ Initiation rate heroin with Rx misuse 	0.013504843 	0.013488199 .
+ Initiation rate heroin with Rx OUD relative to Rx misuse	4.0778597   	4.0290019   .
+ Initiation rate Rx misuse own Rx 	0.036017736 	0.035658062 .
+ Net quit rate heroin with Rx misuse 	0.10644479  	0.092075239 .
+ Net quit rate heroin with Rx OUD 	0.01        	0.01        .
+ Net quit rate NDHU           	0.49999952  	0.5         .
+ Net quit rate Rx misuse      	0.14047804  	0.11928392  .
+ NSDUH misuse redefinition fixed effect	0.45373855  	0.46067802  .
+ Nx kit distribution efficiency	0.00034199028	0.00034250619.
+ Overdose rate base HUD       	0.13575475  	0.18447573  .
+ Overdose rate NDHU relative to HUD	0.25        	0.25        .
+ Overdose rate base Rx misuse 	0.001       	0.001       .
+ Overdose rate base Rx OUD    	0.28748541  	0.34279335  .
+ Overdose rate synth baseline 	0.0085659758	0.011700834 .
+ Perceived risk strength initiating heroin with Rx use	0.88843429  	0.87420946  .
+ Perceived risk strength initiating NDHU no Rx	0.24262466  	0.25249091  .
+ Perceived risk strength initiating Rx misuse diverted	0.46954491  	0.4737027   .
+ Perceived risk strength initiating Rx misuse own Rx	0.58218481  	0.54440577  .
+ Perceived risk strength net quit heroin with Rx OUD	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU with Rx	1e-06       	1e-06       .
+ Perceived risk strength net quit Rx misuse	0.60259557  	0.71714242  .
+ Relapse rate HUD             	0.55906684  	0.56047517  .
+ Relapse rate Rx OUD relative to HUD	0.13883155  	0.13854923  .
+ Remission rate Rx OUD relative to HUD	1           	1           .
+ Rx availability strength developing Rx OUD	1.3636662   	1.2704262   .
+ Rx availability strength initiating Rx misuse	0.20373572  	0.33557732  .
+ Rx availability strength net quit Rx misuse	1.4281941   	1.6019019   .
+ Rx vs H availability strength developing HUD with Rx OUD	1.6272656   	1.7080686   .
+ Rx vs H availability strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Rx vs H availability strength initiating NDHU with Rx	0.076359357 	0.032132913 .
+ Social influence strength developing HUD	1e-06       	1e-06       .
+ Social influence strength developing Rx OUD	6.3996556e-06	1e-06       .
+ Social influence strength initiating heroin with Rx OUD	2           	1.9999999   .
+ Social influence strength initiating NDHU no Rx	0.092665735 	0.1032968   .
+ Social influence strength initiating NDHU with Rx	1.8137704   	1.8187995   .
+ Social influence strength initiating Rx misuse	0.88999385  	0.77289178  .
+ Time to stabilize remission  	9.5484964   	9.5358696   .
+ Tx seeking rate Rx OUD no H total	0.44813412  	0.44882522  .
+Payoff                        	-63354.611  	-63348.191  .
+==============================.
+Initial point of search.
+  ADF effect strength initiating heroin with Rx OUD = 0.0798613.
+  Base survival probability H OD relative to Rx = 0.848902.
+  Base survival probability Rx OD = 0.943089.
+  Developing HUD rate no Rx OUD  = 0.20522.
+  Developing HUD rate with Rx OUD  = 0.515397.
+  Developing Rx OUD rate  = 0.131305.
+  Fentanyl effect on base survival max relative to H = 0.362168.
+  Fentanyl effect on OD rate H max = 5.56419.
+  Fraction Nx kits to H users  = 0.882075.
+  Heroin availability strength developing HUD = 1.33393.
+  Heroin availability strength initiating NDHU no Rx = 0.85429.
+  Heroin availability strength net quit NDHU = 1.20476.
+  Initial stock correction[RXM] = 0.93766.
+  Initial stock correction[NDH] = 1.15272.
+  Initial stock correction[OUB] = 0.937802.
+  Initial stock correction[OUM] = 0.980327.
+  Initial stock correction[OUV] = 0.859029.
+  Initial stock correction[OUT] = 0.905127.
+  Initial stock correction[OUR] = 0.956706.
+  Initial stock correction[OUS] = 1.06196.
+  Initial stock correction[OHB] = 0.837773.
+  Initial stock correction[OHM] = 1.10692.
+  Initial stock correction[OHV] = 0.81238.
+  Initial stock correction[OHT] = 0.98575.
+  Initial stock correction[OHR] = 0.921901.
+  Initial stock correction[OHS] = 1.06156.
+  Initial stock correction[HUB] = 1.14554.
+  Initial stock correction[HUM] = 0.950756.
+  Initial stock correction[HUV] = 1.04694.
+  Initial stock correction[HUT] = 1.03503.
+  Initial stock correction[HUR] = 1.04582.
+  Initial stock correction[HUS] = 1.1389.
+  Initiating heroin no Rx base  = 41196.6.
+  Initiating Rx misuse diverted base  = 2.10899e+06.
+  Initiation rate heroin with Rx misuse  = 0.0156587.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 2.69703.
+  Initiation rate Rx misuse own Rx  = 0.0247358.
+  Net quit rate heroin with Rx misuse  = 0.486147.
+  Net quit rate heroin with Rx OUD  = 0.103853.
+  Net quit rate NDHU  = 0.0728957.
+  Net quit rate Rx misuse = 0.131189.
+  NSDUH misuse redefinition fixed effect = 0.420626.
+  Nx kit distribution efficiency = 0.00145285.
+  Overdose rate base HUD = 0.0640595.
+  Overdose rate NDHU relative to HUD = 0.419856.
+  Overdose rate base Rx misuse = 0.0136008.
+  Overdose rate base Rx OUD = 0.186321.
+  Overdose rate synth baseline = 0.0859507.
+  Perceived risk strength initiating heroin with Rx use = 1.86501.
+  Perceived risk strength initiating NDHU no Rx = 0.0502278.
+  Perceived risk strength initiating Rx misuse diverted = 1.00927.
+  Perceived risk strength initiating Rx misuse own Rx = 0.0305233.
+  Perceived risk strength net quit heroin with Rx OUD = 0.0921373.
+  Perceived risk strength net quit NDHU = 0.0194998.
+  Perceived risk strength net quit NDHU with Rx = 0.278029.
+  Perceived risk strength net quit Rx misuse = 0.152528.
+  Relapse rate HUD = 0.684017.
+  Relapse rate Rx OUD relative to HUD = 0.858908.
+  Remission rate Rx OUD relative to HUD = 1.92873.
+  Rx availability strength developing Rx OUD = 0.556743.
+  Rx availability strength initiating Rx misuse = 0.554505.
+  Rx availability strength net quit Rx misuse = 1.22076.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.66558.
+  Rx vs H availability strength initiating heroin with Rx OUD = 0.132275.
+  Rx vs H availability strength initiating NDHU with Rx = 1.6827.
+  Social influence strength developing HUD = 0.899758.
+  Social influence strength developing Rx OUD = 1.47091.
+  Social influence strength initiating heroin with Rx OUD = 0.124627.
+  Social influence strength initiating NDHU no Rx = 1.45161.
+  Social influence strength initiating NDHU with Rx = 0.390889.
+  Social influence strength initiating Rx misuse = 1.51099.
+  Time to stabilize remission = 8.23841.
+  Tx seeking rate Rx OUD no H total = 0.481268.
+Simulations = 151023.
+Optimizations = 2.
+Pass = 3.
+Payoff = -1.31981e+07.
+---------------------------------.
+Maximum payoff found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.971235.
+  Base survival probability Rx OD = 0.972869.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.47789.
+  Developing Rx OUD rate  = 0.0332769.
+  Fentanyl effect on base survival max relative to H = 0.799651.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.946587.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1e-06.
+  Heroin availability strength net quit NDHU = 1.20077.
+  Initial stock correction[RXM] = 1.10966.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 1.13259.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 1.0603.
+  Initial stock correction[OUT] = 0.868054.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 0.91974.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 1.05315.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.948642.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.09596.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.911973.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119228.
+  Initiating Rx misuse diverted base  = 1.87281e+06.
+  Initiation rate heroin with Rx misuse  = 0.0134882.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.029.
+  Initiation rate Rx misuse own Rx  = 0.0356581.
+  Net quit rate heroin with Rx misuse  = 0.0920752.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.119284.
+  NSDUH misuse redefinition fixed effect = 0.460678.
+  Nx kit distribution efficiency = 0.000342506.
+  Overdose rate base HUD = 0.184476.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.342793.
+  Overdose rate synth baseline = 0.0117008.
+  Perceived risk strength initiating heroin with Rx use = 0.874209.
+  Perceived risk strength initiating NDHU no Rx = 0.252491.
+  Perceived risk strength initiating Rx misuse diverted = 0.473703.
+  Perceived risk strength initiating Rx misuse own Rx = 0.544406.
+  Perceived risk strength net quit heroin with Rx OUD = 1e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.717142.
+  Relapse rate HUD = 0.560475.
+  Relapse rate Rx OUD relative to HUD = 0.138549.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.27043.
+  Rx availability strength initiating Rx misuse = 0.335577.
+  Rx availability strength net quit Rx misuse = 1.6019.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.70807.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.0321329.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.103297.
+  Social influence strength initiating NDHU with Rx = 1.8188.
+  Social influence strength initiating Rx misuse = 0.772892.
+  Time to stabilize remission = 9.53587.
+  Tx seeking rate Rx OUD no H total = 0.448825.
+Simulations = 392563.
+Optimizations = 2.
+Pass = 3.
+Payoff = -63348.2.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	340502      	392563      .
+Iterations                    	202         	465         .
+ ADF effect strength initiating heroin with Rx OUD	1.0901556e-06	1.0901556e-06.
+ Base survival probability H OD relative to Rx	0.89528776  	0.91200985  .
+ Base survival probability Rx OD	0.94319271  	0.95022513  .
+ Developing HUD rate no Rx OUD 	0.05        	0.05        .
+ Developing HUD rate with Rx OUD 	0.46615798  	0.45665368  .
+ Developing Rx OUD rate       	0.032942134 	0.033045215 .
+ Fentanyl effect on base survival max relative to H	0.8         	0.8         .
+ Fentanyl effect on OD rate H max	4.1066186   	3.7706589   .
+ Fraction Nx kits to H users  	0.95        	0.95        .
+ Heroin availability strength developing HUD	1.0671562e-06	1.0671562e-06.
+ Heroin availability strength initiating NDHU no Rx	1e-06       	1e-06       .
+ Heroin availability strength net quit NDHU	1.3828195   	1.3001164   .
+ Initial stock correction[RXM]	1.118983    	1.1183442   .
+ Initial stock correction[NDH]	1.2         	1.2         .
+ Initial stock correction[OUB]	0.93780557  	0.93780557  .
+ Initial stock correction[OUM]	0.8         	0.8         .
+ Initial stock correction[OUV]	0.85903153  	0.8590379   .
+ Initial stock correction[OUT]	0.86948705  	0.86731944  .
+ Initial stock correction[OUR]	0.8         	0.8         .
+ Initial stock correction[OUS]	0.8         	0.8         .
+ Initial stock correction[OHB]	0.8377764   	0.8377764   .
+ Initial stock correction[OHM]	0.8         	0.8         .
+ Initial stock correction[OHV]	0.81238189  	0.81238189  .
+ Initial stock correction[OHT]	1.1999994   	1.2         .
+ Initial stock correction[OHR]	0.8         	0.8         .
+ Initial stock correction[OHS]	0.8         	0.8         .
+ Initial stock correction[HUB]	1.145541    	1.1455414   .
+ Initial stock correction[HUM]	1.2         	1.2         .
+ Initial stock correction[HUV]	1.0469399   	1.0469399   .
+ Initial stock correction[HUT]	0.8         	0.8         .
+ Initial stock correction[HUR]	0.8         	0.8         .
+ Initial stock correction[HUS]	1.2         	1.2         .
+ Initiating heroin no Rx base 	118566.9    	118765.81   .
+ Initiating Rx misuse diverted base 	1863504.3   	1842413.9   .
+ Initiation rate heroin with Rx misuse 	0.013779624 	0.013666179 .
+ Initiation rate heroin with Rx OUD relative to Rx misuse	3.8661406   	3.8434925   .
+ Initiation rate Rx misuse own Rx 	0.035977168 	0.036137538 .
+ Net quit rate heroin with Rx misuse 	0.11533756  	0.10411904  .
+ Net quit rate heroin with Rx OUD 	0.01        	0.01        .
+ Net quit rate NDHU           	0.5         	0.5         .
+ Net quit rate Rx misuse      	0.12475069  	0.12003016  .
+ NSDUH misuse redefinition fixed effect	0.45504078  	0.45719045  .
+ Nx kit distribution efficiency	0.00034062196	0.00034101028.
+ Overdose rate base HUD       	0.067906376 	0.079239419 .
+ Overdose rate NDHU relative to HUD	0.25        	0.25        .
+ Overdose rate base Rx misuse 	0.001       	0.001       .
+ Overdose rate base Rx OUD    	0.16033127  	0.18356582  .
+ Overdose rate synth baseline 	0.0087601587	0.0092394699.
+ Perceived risk strength initiating heroin with Rx use	0.70332035  	0.73313395  .
+ Perceived risk strength initiating NDHU no Rx	0.16788003  	0.16612231  .
+ Perceived risk strength initiating Rx misuse diverted	0.48959545  	0.46733352  .
+ Perceived risk strength initiating Rx misuse own Rx	0.56798412  	0.56983913  .
+ Perceived risk strength net quit heroin with Rx OUD	1.2490378e-06	1e-06       .
+ Perceived risk strength net quit NDHU	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU with Rx	1.0145056e-06	1.0145056e-06.
+ Perceived risk strength net quit Rx misuse	0.69298387  	0.73485234  .
+ Relapse rate HUD             	0.54678545  	0.5523416   .
+ Relapse rate Rx OUD relative to HUD	0.14488301  	0.14514847  .
+ Remission rate Rx OUD relative to HUD	1           	1           .
+ Rx availability strength developing Rx OUD	1.2621698   	1.2422652   .
+ Rx availability strength initiating Rx misuse	0.33324269  	0.29722977  .
+ Rx availability strength net quit Rx misuse	1.5076638   	1.5850764   .
+ Rx vs H availability strength developing HUD with Rx OUD	1.8402451   	1.8817424   .
+ Rx vs H availability strength initiating heroin with Rx OUD	1.0926881e-06	1.0926881e-06.
+ Rx vs H availability strength initiating NDHU with Rx	0.077340786 	0.066758847 .
+ Social influence strength developing HUD	1e-06       	1e-06       .
+ Social influence strength developing Rx OUD	1e-06       	1e-06       .
+ Social influence strength initiating heroin with Rx OUD	1.8879509   	1.9393265   .
+ Social influence strength initiating NDHU no Rx	0.015840832 	0.0057683267.
+ Social influence strength initiating NDHU with Rx	1.588408    	1.6367744   .
+ Social influence strength initiating Rx misuse	0.81214824  	0.81416648  .
+ Time to stabilize remission  	9.561211    	9.5770688   .
+ Tx seeking rate Rx OUD no H total	0.44597233  	0.4474706   .
+Payoff                        	-63383.526  	-63380.498  .
+==============================.
+Initial point of search.
+  ADF effect strength initiating heroin with Rx OUD = 0.682151.
+  Base survival probability H OD relative to Rx = 0.870789.
+  Base survival probability Rx OD = 0.916867.
+  Developing HUD rate no Rx OUD  = 0.485672.
+  Developing HUD rate with Rx OUD  = 1.3286.
+  Developing Rx OUD rate  = 0.0660257.
+  Fentanyl effect on base survival max relative to H = 0.580449.
+  Fentanyl effect on OD rate H max = 6.62779.
+  Fraction Nx kits to H users  = 0.647048.
+  Heroin availability strength developing HUD = 1.98246.
+  Heroin availability strength initiating NDHU no Rx = 0.646121.
+  Heroin availability strength net quit NDHU = 0.263761.
+  Initial stock correction[RXM] = 0.842435.
+  Initial stock correction[NDH] = 0.90728.
+  Initial stock correction[OUB] = 0.974926.
+  Initial stock correction[OUM] = 1.01878.
+  Initial stock correction[OUV] = 1.11013.
+  Initial stock correction[OUT] = 1.14928.
+  Initial stock correction[OUR] = 1.11123.
+  Initial stock correction[OUS] = 1.14899.
+  Initial stock correction[OHB] = 1.12476.
+  Initial stock correction[OHM] = 1.0412.
+  Initial stock correction[OHV] = 1.11344.
+  Initial stock correction[OHT] = 0.87485.
+  Initial stock correction[OHR] = 0.870845.
+  Initial stock correction[OHS] = 1.08905.
+  Initial stock correction[HUB] = 0.987157.
+  Initial stock correction[HUM] = 1.03865.
+  Initial stock correction[HUV] = 1.10725.
+  Initial stock correction[HUT] = 0.814402.
+  Initial stock correction[HUR] = 0.823974.
+  Initial stock correction[HUS] = 0.989576.
+  Initiating heroin no Rx base  = 126204.
+  Initiating Rx misuse diverted base  = 2.04112e+06.
+  Initiation rate heroin with Rx misuse  = 0.0129342.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 3.44675.
+  Initiation rate Rx misuse own Rx  = 0.0297789.
+  Net quit rate heroin with Rx misuse  = 0.264118.
+  Net quit rate heroin with Rx OUD  = 0.0346114.
+  Net quit rate NDHU  = 0.272246.
+  Net quit rate Rx misuse = 0.397769.
+  NSDUH misuse redefinition fixed effect = 0.363668.
+  Nx kit distribution efficiency = 0.000905779.
+  Overdose rate base HUD = 0.110755.
+  Overdose rate NDHU relative to HUD = 0.797908.
+  Overdose rate base Rx misuse = 0.0127526.
+  Overdose rate base Rx OUD = 0.330135.
+  Overdose rate synth baseline = 0.0507252.
+  Perceived risk strength initiating heroin with Rx use = 0.293931.
+  Perceived risk strength initiating NDHU no Rx = 1.71807.
+  Perceived risk strength initiating Rx misuse diverted = 0.728919.
+  Perceived risk strength initiating Rx misuse own Rx = 1.6111.
+  Perceived risk strength net quit heroin with Rx OUD = 0.160979.
+  Perceived risk strength net quit NDHU = 0.0020744.
+  Perceived risk strength net quit NDHU with Rx = 0.0950989.
+  Perceived risk strength net quit Rx misuse = 0.483875.
+  Relapse rate HUD = 0.147646.
+  Relapse rate Rx OUD relative to HUD = 0.64858.
+  Remission rate Rx OUD relative to HUD = 1.5786.
+  Rx availability strength developing Rx OUD = 1.45066.
+  Rx availability strength initiating Rx misuse = 1.70002.
+  Rx availability strength net quit Rx misuse = 0.815348.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.42132.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1.56147.
+  Rx vs H availability strength initiating NDHU with Rx = 1.86813.
+  Social influence strength developing HUD = 0.231055.
+  Social influence strength developing Rx OUD = 0.0704624.
+  Social influence strength initiating heroin with Rx OUD = 0.180003.
+  Social influence strength initiating NDHU no Rx = 0.801175.
+  Social influence strength initiating NDHU with Rx = 0.414763.
+  Social influence strength initiating Rx misuse = 0.830212.
+  Time to stabilize remission = 11.1938.
+  Tx seeking rate Rx OUD no H total = 0.139949.
+Simulations = 392564.
+Optimizations = 3.
+Pass = 3.
+Payoff = -507226.
+---------------------------------.
+NOTE Payoff (-63348.2) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.11014 and 1.11014.
+NOTE Payoff (-63348.2) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+NOTE Payoff (-63348.2) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+NOTE Payoff (-63348.2) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987163 and 0.987164.
+NOTE Payoff (-63348.2) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10726 and 1.10726.
+NOTE Payoff (-63348.1) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.11344 and 1.11344.
+NOTE Payoff (-63348.1) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+NOTE Payoff (-63348.1) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974932 and 0.974933.
+NOTE Payoff (-63348.1) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987164 and 0.987164.
+NOTE Payoff (-63348.1) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987164 and 0.987165.
+NOTE Payoff (-63348.1) realized at multiple parameter values.
+With Initiating heroin no Rx base  = 119673 and 119673.
+NOTE Payoff (-63348.1) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10726 and 1.10726.
+NOTE Payoff (-63348.1) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10726 and 1.10726.
+NOTE Payoff (-63348) realized at multiple parameter values.
+With Developing Rx OUD rate  = 0.0331859 and 0.0331859.
+With Fentanyl effect on base survival max relative to H = 0.795473 and 0.795473.
+With Net quit rate heroin with Rx misuse  = 0.102483 and 0.102483.
+With Overdose rate base Rx OUD = 0.313521 and 0.313521.
+With Perceived risk strength net quit Rx misuse = 0.747825 and 0.747825.
+With Social influence strength initiating NDHU no Rx = 0.0961888 and 0.0961888.
+With Social influence strength initiating Rx misuse = 0.824256 and 0.824256.
+With Tx seeking rate Rx OUD no H total = 0.444695 and 0.444695.
+NOTE Payoff (-63348) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.11014 and 1.11014.
+NOTE Payoff (-63348) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974933 and 0.974933.
+NOTE Payoff (-63348) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974933 and 0.974933.
+NOTE Payoff (-63348) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10726 and 1.10726.
+NOTE Payoff (-63348) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+NOTE Payoff (-63348) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987166 and 0.987166.
+NOTE Payoff (-63347.9) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.11344 and 1.11344.
+NOTE Payoff (-63347.9) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10726 and 1.10726.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initiation rate heroin with Rx OUD relative to Rx misuse = 4.02743 and 4.02743.
+With Nx kit distribution efficiency = 0.00034369 and 0.00034369.
+With Rx availability strength net quit Rx misuse = 1.68358 and 1.68358.
+With Rx vs H availability strength initiating NDHU with Rx = 0.046529 and 0.0465291.
+With Social influence strength initiating NDHU with Rx = 1.80489 and 1.80489.
+With Social influence strength initiating Rx misuse = 0.82361 and 0.82361.
+With Time to stabilize remission = 9.50731 and 9.50731.
+With Tx seeking rate Rx OUD no H total = 0.45493 and 0.45493.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974935 and 0.974935.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987169 and 0.987169.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Time to stabilize remission = 9.5241 and 9.5241.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10726 and 1.10726.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Tx seeking rate Rx OUD no H total = 0.449664 and 0.449664.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974935 and 0.974939.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.11014 and 1.11015.
+NOTE Payoff (-63347.8) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.11014 and 1.11015.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.11344 and 1.11345.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.11344 and 1.11345.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10726 and 1.10727.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.11344 and 1.11345.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974935 and 0.974938.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.11014 and 1.11015.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.11015 and 1.11015.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10727 and 1.10727.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987169 and 0.987171.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974939 and 0.974941.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987169 and 0.987171.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987171 and 0.987174.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974939 and 0.974941.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.11344 and 1.11344.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12478.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987169 and 0.987171.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12478.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUV] = 1.10727 and 1.10727.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.97494 and 0.974941.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHV] = 1.11344 and 1.11344.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+With Initial stock correction[HUB] = 0.987171 and 0.987172.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987172 and 0.987171.
+With Initial stock correction[HUV] = 1.10727 and 1.10727.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987171 and 0.987172.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUV] = 1.11014 and 1.11014.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.97494 and 0.974941.
+With Initial stock correction[OUV] = 1.11014 and 1.11014.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974941 and 0.97494.
+With Initial stock correction[OUV] = 1.11014 and 1.11015.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.97494 and 0.974942.
+With Initial stock correction[OUV] = 1.11015 and 1.11014.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.974942 and 0.97494.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 1.12477 and 1.12477.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.97494 and 0.974941.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[RXM] = 1.11589 and 1.11589.
+With Initiation rate heroin with Rx OUD relative to Rx misuse = 4.02202 and 4.02202.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.987175 and 0.987175.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 0.97494 and 0.974941.
+Maximum payoff found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.973836.
+  Base survival probability Rx OD = 0.971133.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.478928.
+  Developing Rx OUD rate  = 0.0332282.
+  Fentanyl effect on base survival max relative to H = 0.8.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.942748.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1.15872e-06.
+  Heroin availability strength net quit NDHU = 1.25758.
+  Initial stock correction[RXM] = 1.11658.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 0.97494.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 1.11015.
+  Initial stock correction[OUT] = 0.863989.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 1.12477.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 1.11344.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.987175.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.10727.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.955025.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119400.
+  Initiating Rx misuse diverted base  = 1.82437e+06.
+  Initiation rate heroin with Rx misuse  = 0.0135069.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.02269.
+  Initiation rate Rx misuse own Rx  = 0.0359132.
+  Net quit rate heroin with Rx misuse  = 0.10083.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.117233.
+  NSDUH misuse redefinition fixed effect = 0.467049.
+  Nx kit distribution efficiency = 0.000344443.
+  Overdose rate base HUD = 0.186894.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.322565.
+  Overdose rate synth baseline = 0.011755.
+  Perceived risk strength initiating heroin with Rx use = 0.87186.
+  Perceived risk strength initiating NDHU no Rx = 0.258698.
+  Perceived risk strength initiating Rx misuse diverted = 0.440561.
+  Perceived risk strength initiating Rx misuse own Rx = 0.556003.
+  Perceived risk strength net quit heroin with Rx OUD = 1.00324e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.762591.
+  Relapse rate HUD = 0.555758.
+  Relapse rate Rx OUD relative to HUD = 0.139068.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.24652.
+  Rx availability strength initiating Rx misuse = 0.235617.
+  Rx availability strength net quit Rx misuse = 1.71053.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.71038.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.030016.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1.02023e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.110189.
+  Social influence strength initiating NDHU with Rx = 1.82117.
+  Social influence strength initiating Rx misuse = 0.824859.
+  Time to stabilize remission = 9.53113.
+  Tx seeking rate Rx OUD no H total = 0.450038.
+Simulations = 771304.
+Optimizations = 3.
+Pass = 3.
+Payoff = -63347.7.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	720674      	771304      .
+Iterations                    	356         	894         .
+ ADF effect strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Base survival probability H OD relative to Rx	0.97390239  	0.97383607  .
+ Base survival probability Rx OD	0.97084542  	0.97113321  .
+ Developing HUD rate no Rx OUD 	0.05        	0.05        .
+ Developing HUD rate with Rx OUD 	0.47921571  	0.47892785  .
+ Developing Rx OUD rate       	0.033256862 	0.033228246 .
+ Fentanyl effect on base survival max relative to H	0.8         	0.8         .
+ Fentanyl effect on OD rate H max	2           	2           .
+ Fraction Nx kits to H users  	0.94238372  	0.94274845  .
+ Heroin availability strength developing HUD	1e-06       	1e-06       .
+ Heroin availability strength initiating NDHU no Rx	1.158724e-06	1.158724e-06.
+ Heroin availability strength net quit NDHU	1.2676342   	1.2575823   .
+ Initial stock correction[RXM]	1.1122778   	1.1165835   .
+ Initial stock correction[NDH]	1.2         	1.2         .
+ Initial stock correction[OUB]	0.97493532  	0.97494041  .
+ Initial stock correction[OUM]	0.8         	0.8         .
+ Initial stock correction[OUV]	1.1101434   	1.1101451   .
+ Initial stock correction[OUT]	0.86657733  	0.86398862  .
+ Initial stock correction[OUR]	0.8         	0.8         .
+ Initial stock correction[OUS]	0.8         	0.8         .
+ Initial stock correction[OHB]	1.1247735   	1.1247747   .
+ Initial stock correction[OHM]	0.8         	0.8         .
+ Initial stock correction[OHV]	1.1134425   	1.1134425   .
+ Initial stock correction[OHT]	1.2         	1.2         .
+ Initial stock correction[OHR]	0.8         	0.8         .
+ Initial stock correction[OHS]	0.8         	0.8         .
+ Initial stock correction[HUB]	0.98716908  	0.98717467  .
+ Initial stock correction[HUM]	1.2         	1.2         .
+ Initial stock correction[HUV]	1.1072635   	1.1072702   .
+ Initial stock correction[HUT]	0.8         	0.8         .
+ Initial stock correction[HUR]	0.95672658  	0.95502523  .
+ Initial stock correction[HUS]	1.2         	1.2         .
+ Initiating heroin no Rx base 	119232.78   	119400.36   .
+ Initiating Rx misuse diverted base 	1825309.2   	1824374.2   .
+ Initiation rate heroin with Rx misuse 	0.013482789 	0.013506881 .
+ Initiation rate heroin with Rx OUD relative to Rx misuse	4.0244813   	4.0226948   .
+ Initiation rate Rx misuse own Rx 	0.036283619 	0.035913183 .
+ Net quit rate heroin with Rx misuse 	0.10016632  	0.10083015  .
+ Net quit rate heroin with Rx OUD 	0.01        	0.01        .
+ Net quit rate NDHU           	0.5         	0.5         .
+ Net quit rate Rx misuse      	0.11797927  	0.11723307  .
+ NSDUH misuse redefinition fixed effect	0.46525746  	0.46704917  .
+ Nx kit distribution efficiency	0.00034463372	0.00034444253.
+ Overdose rate base HUD       	0.18622104  	0.1868943   .
+ Overdose rate NDHU relative to HUD	0.25        	0.25        .
+ Overdose rate base Rx misuse 	0.001       	0.001       .
+ Overdose rate base Rx OUD    	0.31914567  	0.32256472  .
+ Overdose rate synth baseline 	0.011730343 	0.011755035 .
+ Perceived risk strength initiating heroin with Rx use	0.8710421   	0.87186043  .
+ Perceived risk strength initiating NDHU no Rx	0.25355448  	0.25869814  .
+ Perceived risk strength initiating Rx misuse diverted	0.44500363  	0.44056062  .
+ Perceived risk strength initiating Rx misuse own Rx	0.56832446  	0.55600326  .
+ Perceived risk strength net quit heroin with Rx OUD	1.0032406e-06	1.0032406e-06.
+ Perceived risk strength net quit NDHU	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU with Rx	1e-06       	1e-06       .
+ Perceived risk strength net quit Rx misuse	0.7484116   	0.76259059  .
+ Relapse rate HUD             	0.55504836  	0.55575801  .
+ Relapse rate Rx OUD relative to HUD	0.13987406  	0.13906815  .
+ Remission rate Rx OUD relative to HUD	1           	1           .
+ Rx availability strength developing Rx OUD	1.2510225   	1.2465234   .
+ Rx availability strength initiating Rx misuse	0.23658082  	0.23561711  .
+ Rx availability strength net quit Rx misuse	1.681204    	1.7105322   .
+ Rx vs H availability strength developing HUD with Rx OUD	1.7061834   	1.7103798   .
+ Rx vs H availability strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Rx vs H availability strength initiating NDHU with Rx	0.048024186 	0.030015984 .
+ Social influence strength developing HUD	1e-06       	1e-06       .
+ Social influence strength developing Rx OUD	1.0202294e-06	1.0202294e-06.
+ Social influence strength initiating heroin with Rx OUD	2           	2           .
+ Social influence strength initiating NDHU no Rx	0.10427509  	0.11018897  .
+ Social influence strength initiating NDHU with Rx	1.8065149   	1.8211665   .
+ Social influence strength initiating Rx misuse	0.82288839  	0.82485878  .
+ Time to stabilize remission  	9.5220319   	9.5311266   .
+ Tx seeking rate Rx OUD no H total	0.44966251  	0.45003784  .
+Payoff                        	-63347.788  	-63347.694  .
+==============================.
+Floating point error during optimization with.
+------------------.
+ *ADF effect strength initiating heroin with Rx OUD = 0.30517.
+ *Base survival probability H OD relative to Rx = 0.936979.
+ *Base survival probability Rx OD = 0.982374.
+ *Developing HUD rate no Rx OUD  = 0.0948955.
+ *Developing HUD rate with Rx OUD  = 0.27979.
+ *Developing Rx OUD rate  = 0.155965.
+ *Fentanyl effect on base survival max relative to H = 0.703393.
+ *Fentanyl effect on OD rate H max = 5.05346.
+ *Fraction Nx kits to H users  = 0.745022.
+ *Heroin availability strength developing HUD = 1.06632.
+ *Heroin availability strength initiating NDHU no Rx = 0.789144.
+ *Heroin availability strength net quit NDHU = 1.58479.
+ *Initial stock correction[RXM] = 1.17894.
+ *Initial stock correction[NDH] = 1.07114.
+ *Initial stock correction[OUB] = 0.826323.
+ *Initial stock correction[OUM] = 0.849465.
+ *Initial stock correction[OUV] = 1.11455.
+ *Initial stock correction[OUT] = 0.96262.
+ *Initial stock correction[OUR] = 1.18489.
+ *Initial stock correction[OUS] = 1.05091.
+ *Initial stock correction[OHB] = 0.919479.
+ *Initial stock correction[OHM] = 0.844356.
+ *Initial stock correction[OHV] = 1.0163.
+ *Initial stock correction[OHT] = 0.994904.
+ *Initial stock correction[OHR] = 1.04194.
+ *Initial stock correction[OHS] = 1.09645.
+ *Initial stock correction[HUB] = 0.891031.
+ *Initial stock correction[HUM] = 0.817037.
+ *Initial stock correction[HUV] = 0.806716.
+ *Initial stock correction[HUT] = 0.93882.
+ *Initial stock correction[HUR] = 0.844632.
+ *Initial stock correction[HUS] = 0.865522.
+ *Initiating heroin no Rx base  = 154735.
+ *Initiating Rx misuse diverted base  = 1.81355e+06.
+ *Initiation rate heroin with Rx misuse  = 0.021274.
+ *Initiation rate heroin with Rx OUD relative to Rx misuse = 2.59986.
+ *Initiation rate Rx misuse own Rx  = 0.0463894.
+ *Net quit rate heroin with Rx misuse  = 0.569104.
+ *Net quit rate heroin with Rx OUD  = 0.0184337.
+ *Net quit rate NDHU  = 0.0670189.
+ *Net quit rate Rx misuse = 0.113036.
+ *NSDUH misuse redefinition fixed effect = 0.230922.
+ *Nx kit distribution efficiency = 0.00142336.
+ *Overdose rate base HUD = 0.170418.
+ *Overdose rate NDHU relative to HUD = 0.423548.
+ *Overdose rate base Rx misuse = 0.0212476.
+ *Overdose rate base Rx OUD = 0.289383.
+ *Overdose rate synth baseline = 0.0120579.
+ *Perceived risk strength initiating heroin with Rx use = 0.831978.
+ *Perceived risk strength initiating NDHU no Rx = 0.0946525.
+ *Perceived risk strength initiating Rx misuse diverted = 1.50251.
+ *Perceived risk strength initiating Rx misuse own Rx = 0.224182.
+ *Perceived risk strength net quit heroin with Rx OUD = 0.173162.
+ *Perceived risk strength net quit NDHU = 0.457149.
+ *Perceived risk strength net quit NDHU with Rx = 0.157192.
+ *Perceived risk strength net quit Rx misuse = 1.844.
+ *Relapse rate HUD = 0.347015.
+ *Relapse rate Rx OUD relative to HUD = 0.687634.
+ *Remission rate Rx OUD relative to HUD = 1.93787.
+ *Rx availability strength developing Rx OUD = 0.416504.
+ *Rx availability strength initiating Rx misuse = 0.41678.
+ *Rx availability strength net quit Rx misuse = 0.340832.
+ *Rx vs H availability strength developing HUD with Rx OUD = 0.0125886.
+ *Rx vs H availability strength initiating heroin with Rx OUD = 0.106257.
+ *Rx vs H availability strength initiating NDHU with Rx = 1.92211.
+ *Social influence strength developing HUD = 0.912294.
+ *Social influence strength developing Rx OUD = 0.279511.
+ *Social influence strength initiating heroin with Rx OUD = 1.86783.
+ *Social influence strength initiating NDHU no Rx = 1.88545.
+ *Social influence strength initiating NDHU with Rx = 1.05583.
+ *Social influence strength initiating Rx misuse = 0.670363.
+ *Time to stabilize remission = 14.1463.
+ *Tx seeking rate Rx OUD no H total = 0.780207.
+------------------.
+Floating point error - skipping optimization.
+  ADF effect strength initiating heroin with Rx OUD = 0.30517.
+  Base survival probability H OD relative to Rx = 0.936979.
+  Base survival probability Rx OD = 0.982374.
+  Developing HUD rate no Rx OUD  = 0.0948956.
+  Developing HUD rate with Rx OUD  = 0.27979.
+  Developing Rx OUD rate  = 0.155965.
+  Fentanyl effect on base survival max relative to H = 0.703393.
+  Fentanyl effect on OD rate H max = 5.05346.
+  Fraction Nx kits to H users  = 0.745022.
+  Heroin availability strength developing HUD = 1.06632.
+  Heroin availability strength initiating NDHU no Rx = 0.789144.
+  Heroin availability strength net quit NDHU = 1.58479.
+  Initial stock correction[RXM] = 1.17894.
+  Initial stock correction[NDH] = 1.07114.
+  Initial stock correction[OUB] = 0.826323.
+  Initial stock correction[OUM] = 0.849465.
+  Initial stock correction[OUV] = 1.11455.
+  Initial stock correction[OUT] = 0.96262.
+  Initial stock correction[OUR] = 1.18489.
+  Initial stock correction[OUS] = 1.05091.
+  Initial stock correction[OHB] = 0.919479.
+  Initial stock correction[OHM] = 0.844356.
+  Initial stock correction[OHV] = 1.0163.
+  Initial stock correction[OHT] = 0.994904.
+  Initial stock correction[OHR] = 1.04194.
+  Initial stock correction[OHS] = 1.09645.
+  Initial stock correction[HUB] = 0.891031.
+  Initial stock correction[HUM] = 0.817037.
+  Initial stock correction[HUV] = 0.806716.
+  Initial stock correction[HUT] = 0.93882.
+  Initial stock correction[HUR] = 0.844632.
+  Initial stock correction[HUS] = 0.865522.
+  Initiating heroin no Rx base  = 154735.
+  Initiating Rx misuse diverted base  = 1.81355e+06.
+  Initiation rate heroin with Rx misuse  = 0.021274.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 2.59986.
+  Initiation rate Rx misuse own Rx  = 0.0463894.
+  Net quit rate heroin with Rx misuse  = 0.569104.
+  Net quit rate heroin with Rx OUD  = 0.0184337.
+  Net quit rate NDHU  = 0.0670189.
+  Net quit rate Rx misuse = 0.113036.
+  NSDUH misuse redefinition fixed effect = 0.230922.
+  Nx kit distribution efficiency = 0.00142336.
+  Overdose rate base HUD = 0.170418.
+  Overdose rate NDHU relative to HUD = 0.423548.
+  Overdose rate base Rx misuse = 0.0212476.
+  Overdose rate base Rx OUD = 0.289383.
+  Overdose rate synth baseline = 0.0120579.
+  Perceived risk strength initiating heroin with Rx use = 0.831978.
+  Perceived risk strength initiating NDHU no Rx = 0.0946525.
+  Perceived risk strength initiating Rx misuse diverted = 1.50251.
+  Perceived risk strength initiating Rx misuse own Rx = 0.224182.
+  Perceived risk strength net quit heroin with Rx OUD = 0.173162.
+  Perceived risk strength net quit NDHU = 0.457149.
+  Perceived risk strength net quit NDHU with Rx = 0.157192.
+  Perceived risk strength net quit Rx misuse = 1.844.
+  Relapse rate HUD = 0.347015.
+  Relapse rate Rx OUD relative to HUD = 0.687634.
+  Remission rate Rx OUD relative to HUD = 1.93787.
+  Rx availability strength developing Rx OUD = 0.416504.
+  Rx availability strength initiating Rx misuse = 0.41678.
+  Rx availability strength net quit Rx misuse = 0.340832.
+  Rx vs H availability strength developing HUD with Rx OUD = 0.0125886.
+  Rx vs H availability strength initiating heroin with Rx OUD = 0.106257.
+  Rx vs H availability strength initiating NDHU with Rx = 1.92211.
+  Social influence strength developing HUD = 0.912294.
+  Social influence strength developing Rx OUD = 0.279511.
+  Social influence strength initiating heroin with Rx OUD = 1.86783.
+  Social influence strength initiating NDHU no Rx = 1.88545.
+  Social influence strength initiating NDHU with Rx = 1.05583.
+  Social influence strength initiating Rx misuse = 0.670363.
+  Time to stabilize remission = 14.1463.
+  Tx seeking rate Rx OUD no H total = 0.780207.
+Simulations = 771305.
+NOTE 1 of the simulations caused floating point errors (first was reported).
+Optimizations = 4.
+Pass = 3.
+Payoff = -1.29807e+33.
+---------------------------------.
+Initial point of search.
+  ADF effect strength initiating heroin with Rx OUD = 0.355704.
+  Base survival probability H OD relative to Rx = 0.904202.
+  Base survival probability Rx OD = 0.947588.
+  Developing HUD rate no Rx OUD  = 0.334068.
+  Developing HUD rate with Rx OUD  = 0.468857.
+  Developing Rx OUD rate  = 0.0468101.
+  Fentanyl effect on base survival max relative to H = 0.678795.
+  Fentanyl effect on OD rate H max = 5.39992.
+  Fraction Nx kits to H users  = 0.752387.
+  Heroin availability strength developing HUD = 1.4986.
+  Heroin availability strength initiating NDHU no Rx = 1.87961.
+  Heroin availability strength net quit NDHU = 0.666623.
+  Initial stock correction[RXM] = 0.878804.
+  Initial stock correction[NDH] = 1.0797.
+  Initial stock correction[OUB] = 1.1332.
+  Initial stock correction[OUM] = 0.94112.
+  Initial stock correction[OUV] = 0.882589.
+  Initial stock correction[OUT] = 1.0311.
+  Initial stock correction[OUR] = 1.0725.
+  Initial stock correction[OUS] = 1.07401.
+  Initial stock correction[OHB] = 0.976017.
+  Initial stock correction[OHM] = 0.811747.
+  Initial stock correction[OHV] = 1.08773.
+  Initial stock correction[OHT] = 1.04367.
+  Initial stock correction[OHR] = 0.840281.
+  Initial stock correction[OHS] = 1.1156.
+  Initial stock correction[HUB] = 1.11862.
+  Initial stock correction[HUM] = 0.968382.
+  Initial stock correction[HUV] = 0.836489.
+  Initial stock correction[HUT] = 0.910609.
+  Initial stock correction[HUR] = 0.883452.
+  Initial stock correction[HUS] = 1.19628.
+  Initiating heroin no Rx base  = 89248.5.
+  Initiating Rx misuse diverted base  = 1.81244e+06.
+  Initiation rate heroin with Rx misuse  = 0.0133644.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.52154.
+  Initiation rate Rx misuse own Rx  = 0.0465985.
+  Net quit rate heroin with Rx misuse  = 0.254551.
+  Net quit rate heroin with Rx OUD  = 0.0519376.
+  Net quit rate NDHU  = 0.154476.
+  Net quit rate Rx misuse = 0.315407.
+  NSDUH misuse redefinition fixed effect = 0.327922.
+  Nx kit distribution efficiency = 0.000287696.
+  Overdose rate base HUD = 0.100897.
+  Overdose rate NDHU relative to HUD = 0.483129.
+  Overdose rate base Rx misuse = 0.0212198.
+  Overdose rate base Rx OUD = 0.338851.
+  Overdose rate synth baseline = 0.038772.
+  Perceived risk strength initiating heroin with Rx use = 1.2037.
+  Perceived risk strength initiating NDHU no Rx = 0.550323.
+  Perceived risk strength initiating Rx misuse diverted = 1.46807.
+  Perceived risk strength initiating Rx misuse own Rx = 1.25749.
+  Perceived risk strength net quit heroin with Rx OUD = 0.0701227.
+  Perceived risk strength net quit NDHU = 0.496543.
+  Perceived risk strength net quit NDHU with Rx = 0.427875.
+  Perceived risk strength net quit Rx misuse = 1.03907.
+  Relapse rate HUD = 0.987563.
+  Relapse rate Rx OUD relative to HUD = 0.560365.
+  Remission rate Rx OUD relative to HUD = 1.4258.
+  Rx availability strength developing Rx OUD = 0.126273.
+  Rx availability strength initiating Rx misuse = 0.356952.
+  Rx availability strength net quit Rx misuse = 1.88616.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.22363.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1.92979.
+  Rx vs H availability strength initiating NDHU with Rx = 1.15909.
+  Social influence strength developing HUD = 0.807525.
+  Social influence strength developing Rx OUD = 1.88956.
+  Social influence strength initiating heroin with Rx OUD = 0.625796.
+  Social influence strength initiating NDHU no Rx = 1.67696.
+  Social influence strength initiating NDHU with Rx = 0.763108.
+  Social influence strength initiating Rx misuse = 1.07126.
+  Time to stabilize remission = 6.79212.
+  Tx seeking rate Rx OUD no H total = 0.81517.
+Simulations = 771306.
+NOTE 1 of the simulations caused floating point errors (first was reported).
+Optimizations = 5.
+Pass = 3.
+Payoff = -1.00057e+06.
+---------------------------------.
+Floating point error during optimization with.
+------------------.
+ *ADF effect strength initiating heroin with Rx OUD = 0.355704.
+ *Base survival probability H OD relative to Rx = 0.904202.
+ *Base survival probability Rx OD = 0.947588.
+ *Developing HUD rate no Rx OUD  = 0.334068.
+ *Developing HUD rate with Rx OUD  = 0.795917.
+ *Developing Rx OUD rate  = 0.0468101.
+ *Fentanyl effect on base survival max relative to H = 0.678795.
+ *Fentanyl effect on OD rate H max = 5.39992.
+ *Fraction Nx kits to H users  = 0.752387.
+ *Heroin availability strength developing HUD = 1.4986.
+ *Heroin availability strength initiating NDHU no Rx = 1.87961.
+ *Heroin availability strength net quit NDHU = 0.666623.
+ *Initial stock correction[RXM] = 0.878804.
+ *Initial stock correction[NDH] = 1.0797.
+ *Initial stock correction[OUB] = 1.1332.
+ *Initial stock correction[OUM] = 0.94112.
+ *Initial stock correction[OUV] = 0.882589.
+ *Initial stock correction[OUT] = 1.0311.
+ *Initial stock correction[OUR] = 1.0725.
+ *Initial stock correction[OUS] = 1.07401.
+ *Initial stock correction[OHB] = 0.976017.
+ *Initial stock correction[OHM] = 0.811747.
+ *Initial stock correction[OHV] = 1.08773.
+ *Initial stock correction[OHT] = 1.04367.
+ *Initial stock correction[OHR] = 0.840281.
+ *Initial stock correction[OHS] = 1.1156.
+ *Initial stock correction[HUB] = 1.11862.
+ *Initial stock correction[HUM] = 0.968382.
+ *Initial stock correction[HUV] = 0.836489.
+ *Initial stock correction[HUT] = 0.910609.
+ *Initial stock correction[HUR] = 0.883452.
+ *Initial stock correction[HUS] = 1.19628.
+ *Initiating heroin no Rx base  = 89248.5.
+ *Initiating Rx misuse diverted base  = 1.81244e+06.
+ *Initiation rate heroin with Rx misuse  = 0.0133644.
+ *Initiation rate heroin with Rx OUD relative to Rx misuse = 4.52154.
+ *Initiation rate Rx misuse own Rx  = 0.0465985.
+ *Net quit rate heroin with Rx misuse  = 0.254551.
+ *Net quit rate heroin with Rx OUD  = 0.0519376.
+ *Net quit rate NDHU  = 0.154476.
+ *Net quit rate Rx misuse = 0.315407.
+ *NSDUH misuse redefinition fixed effect = 0.327922.
+ *Nx kit distribution efficiency = 0.000287696.
+ *Overdose rate base HUD = 0.100897.
+ *Overdose rate NDHU relative to HUD = 0.483129.
+ *Overdose rate base Rx misuse = 0.0212198.
+ *Overdose rate base Rx OUD = 0.338851.
+ *Overdose rate synth baseline = 0.038772.
+ *Perceived risk strength initiating heroin with Rx use = 1.2037.
+ *Perceived risk strength initiating NDHU no Rx = 0.550323.
+ *Perceived risk strength initiating Rx misuse diverted = 1.46807.
+ *Perceived risk strength initiating Rx misuse own Rx = 1.25749.
+ *Perceived risk strength net quit heroin with Rx OUD = 0.0701227.
+ *Perceived risk strength net quit NDHU = 0.496543.
+ *Perceived risk strength net quit NDHU with Rx = 0.427875.
+ *Perceived risk strength net quit Rx misuse = 1.03907.
+ *Relapse rate HUD = 0.987563.
+ *Relapse rate Rx OUD relative to HUD = 0.560365.
+ *Remission rate Rx OUD relative to HUD = 1.4258.
+ *Rx availability strength developing Rx OUD = 0.126273.
+ *Rx availability strength initiating Rx misuse = 0.356952.
+ *Rx availability strength net quit Rx misuse = 1.88616.
+ *Rx vs H availability strength developing HUD with Rx OUD = 1.22363.
+ *Rx vs H availability strength initiating heroin with Rx OUD = 1.92979.
+ *Rx vs H availability strength initiating NDHU with Rx = 1.15909.
+ *Social influence strength developing HUD = 0.807525.
+ *Social influence strength developing Rx OUD = 1.88956.
+ *Social influence strength initiating heroin with Rx OUD = 0.625796.
+ *Social influence strength initiating NDHU no Rx = 1.67696.
+ *Social influence strength initiating NDHU with Rx = 0.763108.
+ *Social influence strength initiating Rx misuse = 1.07126.
+ *Time to stabilize remission = 6.79212.
+ *Tx seeking rate Rx OUD no H total = 0.81517.
+------------------.
+Floating point error during optimization with.
+------------------.
+ *ADF effect strength initiating heroin with Rx OUD = 0.355704.
+ *Base survival probability H OD relative to Rx = 0.904202.
+ *Base survival probability Rx OD = 0.947588.
+ *Developing HUD rate no Rx OUD  = 0.334068.
+ *Developing HUD rate with Rx OUD  = 0.468857.
+ *Developing Rx OUD rate  = 0.0468101.
+ *Fentanyl effect on base survival max relative to H = 0.678795.
+ *Fentanyl effect on OD rate H max = 5.39992.
+ *Fraction Nx kits to H users  = 0.752387.
+ *Heroin availability strength developing HUD = 1.4986.
+ *Heroin availability strength initiating NDHU no Rx = 1.87961.
+ *Heroin availability strength net quit NDHU = 0.666623.
+ *Initial stock correction[RXM] = 0.878804.
+ *Initial stock correction[NDH] = 1.0797.
+ *Initial stock correction[OUB] = 1.1332.
+ *Initial stock correction[OUM] = 0.94112.
+ *Initial stock correction[OUV] = 0.882589.
+ *Initial stock correction[OUT] = 1.0311.
+ *Initial stock correction[OUR] = 1.0725.
+ *Initial stock correction[OUS] = 1.07401.
+ *Initial stock correction[OHB] = 0.976017.
+ *Initial stock correction[OHM] = 0.811747.
+ *Initial stock correction[OHV] = 1.08773.
+ *Initial stock correction[OHT] = 1.04367.
+ *Initial stock correction[OHR] = 0.840281.
+ *Initial stock correction[OHS] = 1.1156.
+ *Initial stock correction[HUB] = 1.11862.
+ *Initial stock correction[HUM] = 0.968382.
+ *Initial stock correction[HUV] = 0.836489.
+ *Initial stock correction[HUT] = 0.910609.
+ *Initial stock correction[HUR] = 0.883452.
+ *Initial stock correction[HUS] = 1.19628.
+ *Initiating heroin no Rx base  = 89248.5.
+ *Initiating Rx misuse diverted base  = 1.81244e+06.
+ *Initiation rate heroin with Rx misuse  = 0.0133644.
+ *Initiation rate heroin with Rx OUD relative to Rx misuse = 4.52154.
+ *Initiation rate Rx misuse own Rx  = 0.0465985.
+ *Net quit rate heroin with Rx misuse  = 0.254551.
+ *Net quit rate heroin with Rx OUD  = 0.0519376.
+ *Net quit rate NDHU  = 0.154476.
+ *Net quit rate Rx misuse = 0.315407.
+ *NSDUH misuse redefinition fixed effect = 0.327922.
+ *Nx kit distribution efficiency = 0.000287696.
+ *Overdose rate base HUD = 0.100897.
+ *Overdose rate NDHU relative to HUD = 0.483129.
+ *Overdose rate base Rx misuse = 0.0212198.
+ *Overdose rate base Rx OUD = 0.338851.
+ *Overdose rate synth baseline = 0.038772.
+ *Perceived risk strength initiating heroin with Rx use = 1.2037.
+ *Perceived risk strength initiating NDHU no Rx = 0.550323.
+ *Perceived risk strength initiating Rx misuse diverted = 1.46807.
+ *Perceived risk strength initiating Rx misuse own Rx = 1.25749.
+ *Perceived risk strength net quit heroin with Rx OUD = 0.0701227.
+ *Perceived risk strength net quit NDHU = 0.496543.
+ *Perceived risk strength net quit NDHU with Rx = 0.427875.
+ *Perceived risk strength net quit Rx misuse = 1.03907.
+ *Relapse rate HUD = 0.987563.
+ *Relapse rate Rx OUD relative to HUD = 0.560365.
+ *Remission rate Rx OUD relative to HUD = 1.4258.
+ *Rx availability strength developing Rx OUD = 0.126273.
+ *Rx availability strength initiating Rx misuse = 0.356952.
+ *Rx availability strength net quit Rx misuse = 1.88616.
+ *Rx vs H availability strength developing HUD with Rx OUD = 2.
+ *Rx vs H availability strength initiating heroin with Rx OUD = 1.92979.
+ *Rx vs H availability strength initiating NDHU with Rx = 1.15909.
+ *Social influence strength developing HUD = 0.807525.
+ *Social influence strength developing Rx OUD = 1.88956.
+ *Social influence strength initiating heroin with Rx OUD = 0.625796.
+ *Social influence strength initiating NDHU no Rx = 1.67696.
+ *Social influence strength initiating NDHU with Rx = 0.763108.
+ *Social influence strength initiating Rx misuse = 1.07126.
+ *Time to stabilize remission = 6.79212.
+ *Tx seeking rate Rx OUD no H total = 0.81517.
+------------------.
+Maximum payoff found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.973836.
+  Base survival probability Rx OD = 0.971133.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.478928.
+  Developing Rx OUD rate  = 0.0332282.
+  Fentanyl effect on base survival max relative to H = 0.8.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.942748.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1.15872e-06.
+  Heroin availability strength net quit NDHU = 1.25758.
+  Initial stock correction[RXM] = 1.11658.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 0.97494.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 1.11015.
+  Initial stock correction[OUT] = 0.863989.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 1.12477.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 1.11344.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.987175.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.10727.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.955025.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119400.
+  Initiating Rx misuse diverted base  = 1.82437e+06.
+  Initiation rate heroin with Rx misuse  = 0.0135069.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.02269.
+  Initiation rate Rx misuse own Rx  = 0.0359132.
+  Net quit rate heroin with Rx misuse  = 0.10083.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.117233.
+  NSDUH misuse redefinition fixed effect = 0.467049.
+  Nx kit distribution efficiency = 0.000344443.
+  Overdose rate base HUD = 0.186894.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.322565.
+  Overdose rate synth baseline = 0.011755.
+  Perceived risk strength initiating heroin with Rx use = 0.87186.
+  Perceived risk strength initiating NDHU no Rx = 0.258698.
+  Perceived risk strength initiating Rx misuse diverted = 0.440561.
+  Perceived risk strength initiating Rx misuse own Rx = 0.556003.
+  Perceived risk strength net quit heroin with Rx OUD = 1.00324e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.762591.
+  Relapse rate HUD = 0.555758.
+  Relapse rate Rx OUD relative to HUD = 0.139068.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.24652.
+  Rx availability strength initiating Rx misuse = 0.235617.
+  Rx availability strength net quit Rx misuse = 1.71053.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.71038.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.030016.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1.02023e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.110189.
+  Social influence strength initiating NDHU with Rx = 1.82117.
+  Social influence strength initiating Rx misuse = 0.824859.
+  Time to stabilize remission = 9.53113.
+  Tx seeking rate Rx OUD no H total = 0.450038.
+Simulations = 1140615.
+Optimizations = 5.
+Pass = 3.
+Payoff = -63347.7.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	1088698     	1140615     .
+Iterations                    	339         	1306        .
+ ADF effect strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Base survival probability H OD relative to Rx	0.97606462  	0.97476938  .
+ Base survival probability Rx OD	0.96953485  	0.97031848  .
+ Developing HUD rate no Rx OUD 	0.05        	0.05        .
+ Developing HUD rate with Rx OUD 	0.49757977  	0.4845451   .
+ Developing Rx OUD rate       	0.032134449 	0.032935856 .
+ Fentanyl effect on base survival max relative to H	0.8         	0.8         .
+ Fentanyl effect on OD rate H max	2           	2           .
+ Fraction Nx kits to H users  	0.93960835  	0.94129398  .
+ Heroin availability strength developing HUD	1e-06       	1e-06       .
+ Heroin availability strength initiating NDHU no Rx	1e-06       	1e-06       .
+ Heroin availability strength net quit NDHU	1.2042813   	1.2167464   .
+ Initial stock correction[RXM]	1.1244832   	1.1174299   .
+ Initial stock correction[NDH]	1.2         	1.2         .
+ Initial stock correction[OUB]	1.133204    	1.133204    .
+ Initial stock correction[OUM]	0.8         	0.8         .
+ Initial stock correction[OUV]	0.88258979  	0.88259127  .
+ Initial stock correction[OUT]	0.91074487  	0.87699865  .
+ Initial stock correction[OUR]	0.8         	0.8         .
+ Initial stock correction[OUS]	0.8         	0.8         .
+ Initial stock correction[OHB]	0.97601986  	0.97602796  .
+ Initial stock correction[OHM]	0.8         	0.8         .
+ Initial stock correction[OHV]	1.087736    	1.087736    .
+ Initial stock correction[OHT]	1.2         	1.2         .
+ Initial stock correction[OHR]	0.8         	0.8         .
+ Initial stock correction[OHS]	0.8         	0.8         .
+ Initial stock correction[HUB]	1.1186275   	1.1186315   .
+ Initial stock correction[HUM]	1.2         	1.2         .
+ Initial stock correction[HUV]	0.83649049  	0.8364931   .
+ Initial stock correction[HUT]	0.8         	0.8         .
+ Initial stock correction[HUR]	0.96098342  	0.95366513  .
+ Initial stock correction[HUS]	1.2         	1.2         .
+ Initiating heroin no Rx base 	119536.49   	119343.76   .
+ Initiating Rx misuse diverted base 	1871809.3   	1841306.5   .
+ Initiation rate heroin with Rx misuse 	0.013325528 	0.013424433 .
+ Initiation rate heroin with Rx OUD relative to Rx misuse	4.0544994   	4.0504108   .
+ Initiation rate Rx misuse own Rx 	0.035377502 	0.035724178 .
+ Net quit rate heroin with Rx misuse 	0.093435937 	0.09554917  .
+ Net quit rate heroin with Rx OUD 	0.01        	0.01        .
+ Net quit rate NDHU           	0.5         	0.5         .
+ Net quit rate Rx misuse      	0.12103747  	0.11819932  .
+ NSDUH misuse redefinition fixed effect	0.47296335  	0.46759426  .
+ Nx kit distribution efficiency	0.0003458349	0.00034449249.
+ Overdose rate base HUD       	0.18794327  	0.18698426  .
+ Overdose rate NDHU relative to HUD	0.25        	0.25        .
+ Overdose rate base Rx misuse 	0.001       	0.001       .
+ Overdose rate base Rx OUD    	0.30477843  	0.31333124  .
+ Overdose rate synth baseline 	0.011738699 	0.011751301 .
+ Perceived risk strength initiating heroin with Rx use	0.86951742  	0.87423195  .
+ Perceived risk strength initiating NDHU no Rx	0.29187286  	0.26458145  .
+ Perceived risk strength initiating Rx misuse diverted	0.48190151  	0.45454895  .
+ Perceived risk strength initiating Rx misuse own Rx	0.56854498  	0.55972876  .
+ Perceived risk strength net quit heroin with Rx OUD	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU with Rx	1e-06       	1e-06       .
+ Perceived risk strength net quit Rx misuse	0.80930058  	0.76953252  .
+ Relapse rate HUD             	0.55517825  	0.55465014  .
+ Relapse rate Rx OUD relative to HUD	0.14024946  	0.139497    .
+ Remission rate Rx OUD relative to HUD	1           	1           .
+ Rx availability strength developing Rx OUD	1.2899065   	1.2659713   .
+ Rx availability strength initiating Rx misuse	0.31313257  	0.27132476  .
+ Rx availability strength net quit Rx misuse	1.769711    	1.7043569   .
+ Rx vs H availability strength developing HUD with Rx OUD	1.688607    	1.7008493   .
+ Rx vs H availability strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Rx vs H availability strength initiating NDHU with Rx	0.043941129 	0.034321539 .
+ Social influence strength developing HUD	1.1723115e-06	1.1723115e-06.
+ Social influence strength developing Rx OUD	1e-06       	1e-06       .
+ Social influence strength initiating heroin with Rx OUD	1.9999999   	1.9999999   .
+ Social influence strength initiating NDHU no Rx	0.15118404  	0.12045618  .
+ Social influence strength initiating NDHU with Rx	1.8338625   	1.8306887   .
+ Social influence strength initiating Rx misuse	0.75993402  	0.79980463  .
+ Time to stabilize remission  	9.560562    	9.5338302   .
+ Tx seeking rate Rx OUD no H total	0.45136127  	0.4498645   .
+Payoff                        	-63348.604  	-63347.84   .
+==============================.
+Floating point error during optimization with.
+------------------.
+ *ADF effect strength initiating heroin with Rx OUD = 0.210071.
+ *Base survival probability H OD relative to Rx = 0.997023.
+ *Base survival probability Rx OD = 0.923138.
+ *Developing HUD rate no Rx OUD  = 0.333244.
+ *Developing HUD rate with Rx OUD  = 1.29948.
+ *Developing Rx OUD rate  = 0.260784.
+ *Fentanyl effect on base survival max relative to H = 0.424108.
+ *Fentanyl effect on OD rate H max = 5.70837.
+ *Fraction Nx kits to H users  = 0.588055.
+ *Heroin availability strength developing HUD = 1.94547.
+ *Heroin availability strength initiating NDHU no Rx = 0.78711.
+ *Heroin availability strength net quit NDHU = 0.197783.
+ *Initial stock correction[RXM] = 1.05007.
+ *Initial stock correction[NDH] = 1.12208.
+ *Initial stock correction[OUB] = 0.924196.
+ *Initial stock correction[OUM] = 1.02073.
+ *Initial stock correction[OUV] = 0.853167.
+ *Initial stock correction[OUT] = 0.848124.
+ *Initial stock correction[OUR] = 0.937007.
+ *Initial stock correction[OUS] = 1.10354.
+ *Initial stock correction[OHB] = 1.0837.
+ *Initial stock correction[OHM] = 1.09891.
+ *Initial stock correction[OHV] = 1.03435.
+ *Initial stock correction[OHT] = 1.18627.
+ *Initial stock correction[OHR] = 0.95325.
+ *Initial stock correction[OHS] = 0.909147.
+ *Initial stock correction[HUB] = 0.844509.
+ *Initial stock correction[HUM] = 1.1074.
+ *Initial stock correction[HUV] = 1.09416.
+ *Initial stock correction[HUT] = 0.913943.
+ *Initial stock correction[HUR] = 1.18696.
+ *Initial stock correction[HUS] = 0.846693.
+ *Initiating heroin no Rx base  = 85791.6.
+ *Initiating Rx misuse diverted base  = 2.09132e+06.
+ *Initiation rate heroin with Rx misuse  = 0.0224477.
+ *Initiation rate heroin with Rx OUD relative to Rx misuse = 2.94974.
+ *Initiation rate Rx misuse own Rx  = 0.0492875.
+ *Net quit rate heroin with Rx misuse  = 0.240438.
+ *Net quit rate heroin with Rx OUD  = 0.0539587.
+ *Net quit rate NDHU  = 0.43094.
+ *Net quit rate Rx misuse = 0.117179.
+ *NSDUH misuse redefinition fixed effect = 0.144766.
+ *Nx kit distribution efficiency = 0.000131397.
+ *Overdose rate base HUD = 0.0832371.
+ *Overdose rate NDHU relative to HUD = 0.745594.
+ *Overdose rate base Rx misuse = 0.0183048.
+ *Overdose rate base Rx OUD = 0.107936.
+ *Overdose rate synth baseline = 0.0197138.
+ *Perceived risk strength initiating heroin with Rx use = 0.727398.
+ *Perceived risk strength initiating NDHU no Rx = 1.26865.
+ *Perceived risk strength initiating Rx misuse diverted = 0.827531.
+ *Perceived risk strength initiating Rx misuse own Rx = 1.26053.
+ *Perceived risk strength net quit heroin with Rx OUD = 0.404397.
+ *Perceived risk strength net quit NDHU = 0.240634.
+ *Perceived risk strength net quit NDHU with Rx = 0.223773.
+ *Perceived risk strength net quit Rx misuse = 1.01843.
+ *Relapse rate HUD = 0.837779.
+ *Relapse rate Rx OUD relative to HUD = 0.819373.
+ *Remission rate Rx OUD relative to HUD = 1.03287.
+ *Rx availability strength developing Rx OUD = 1.96239.
+ *Rx availability strength initiating Rx misuse = 1.21521.
+ *Rx availability strength net quit Rx misuse = 1.27669.
+ *Rx vs H availability strength developing HUD with Rx OUD = 0.60845.
+ *Rx vs H availability strength initiating heroin with Rx OUD = 1.2772.
+ *Rx vs H availability strength initiating NDHU with Rx = 0.396298.
+ *Social influence strength developing HUD = 1.67867.
+ *Social influence strength developing Rx OUD = 1.49189.
+ *Social influence strength initiating heroin with Rx OUD = 0.433516.
+ *Social influence strength initiating NDHU no Rx = 0.673805.
+ *Social influence strength initiating NDHU with Rx = 1.5496.
+ *Social influence strength initiating Rx misuse = 1.25661.
+ *Time to stabilize remission = 8.64144.
+ *Tx seeking rate Rx OUD no H total = 0.950763.
+------------------.
+Floating point error - skipping optimization.
+  ADF effect strength initiating heroin with Rx OUD = 0.210071.
+  Base survival probability H OD relative to Rx = 0.997023.
+  Base survival probability Rx OD = 0.923138.
+  Developing HUD rate no Rx OUD  = 0.333244.
+  Developing HUD rate with Rx OUD  = 1.29948.
+  Developing Rx OUD rate  = 0.260784.
+  Fentanyl effect on base survival max relative to H = 0.424108.
+  Fentanyl effect on OD rate H max = 5.70837.
+  Fraction Nx kits to H users  = 0.588055.
+  Heroin availability strength developing HUD = 1.94547.
+  Heroin availability strength initiating NDHU no Rx = 0.78711.
+  Heroin availability strength net quit NDHU = 0.197783.
+  Initial stock correction[RXM] = 1.05007.
+  Initial stock correction[NDH] = 1.12208.
+  Initial stock correction[OUB] = 0.924196.
+  Initial stock correction[OUM] = 1.02073.
+  Initial stock correction[OUV] = 0.853167.
+  Initial stock correction[OUT] = 0.848124.
+  Initial stock correction[OUR] = 0.937007.
+  Initial stock correction[OUS] = 1.10354.
+  Initial stock correction[OHB] = 1.0837.
+  Initial stock correction[OHM] = 1.09891.
+  Initial stock correction[OHV] = 1.03435.
+  Initial stock correction[OHT] = 1.18627.
+  Initial stock correction[OHR] = 0.95325.
+  Initial stock correction[OHS] = 0.909147.
+  Initial stock correction[HUB] = 0.844509.
+  Initial stock correction[HUM] = 1.1074.
+  Initial stock correction[HUV] = 1.09416.
+  Initial stock correction[HUT] = 0.913943.
+  Initial stock correction[HUR] = 1.18696.
+  Initial stock correction[HUS] = 0.846692.
+  Initiating heroin no Rx base  = 85791.6.
+  Initiating Rx misuse diverted base  = 2.09132e+06.
+  Initiation rate heroin with Rx misuse  = 0.0224477.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 2.94974.
+  Initiation rate Rx misuse own Rx  = 0.0492875.
+  Net quit rate heroin with Rx misuse  = 0.240438.
+  Net quit rate heroin with Rx OUD  = 0.0539587.
+  Net quit rate NDHU  = 0.43094.
+  Net quit rate Rx misuse = 0.117179.
+  NSDUH misuse redefinition fixed effect = 0.144766.
+  Nx kit distribution efficiency = 0.000131397.
+  Overdose rate base HUD = 0.0832372.
+  Overdose rate NDHU relative to HUD = 0.745594.
+  Overdose rate base Rx misuse = 0.0183048.
+  Overdose rate base Rx OUD = 0.107936.
+  Overdose rate synth baseline = 0.0197138.
+  Perceived risk strength initiating heroin with Rx use = 0.727398.
+  Perceived risk strength initiating NDHU no Rx = 1.26865.
+  Perceived risk strength initiating Rx misuse diverted = 0.827531.
+  Perceived risk strength initiating Rx misuse own Rx = 1.26053.
+  Perceived risk strength net quit heroin with Rx OUD = 0.404397.
+  Perceived risk strength net quit NDHU = 0.240634.
+  Perceived risk strength net quit NDHU with Rx = 0.223773.
+  Perceived risk strength net quit Rx misuse = 1.01843.
+  Relapse rate HUD = 0.837779.
+  Relapse rate Rx OUD relative to HUD = 0.819373.
+  Remission rate Rx OUD relative to HUD = 1.03287.
+  Rx availability strength developing Rx OUD = 1.96239.
+  Rx availability strength initiating Rx misuse = 1.21521.
+  Rx availability strength net quit Rx misuse = 1.27669.
+  Rx vs H availability strength developing HUD with Rx OUD = 0.60845.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1.2772.
+  Rx vs H availability strength initiating NDHU with Rx = 0.396298.
+  Social influence strength developing HUD = 1.67867.
+  Social influence strength developing Rx OUD = 1.49189.
+  Social influence strength initiating heroin with Rx OUD = 0.433516.
+  Social influence strength initiating NDHU no Rx = 0.673805.
+  Social influence strength initiating NDHU with Rx = 1.5496.
+  Social influence strength initiating Rx misuse = 1.25661.
+  Time to stabilize remission = 8.64144.
+  Tx seeking rate Rx OUD no H total = 0.950763.
+Simulations = 1140616.
+NOTE 1 of the simulations caused floating point errors (first was reported).
+Optimizations = 6.
+Pass = 3.
+Payoff = -1.29807e+33.
+---------------------------------.
+Initial point of search.
+  ADF effect strength initiating heroin with Rx OUD = 0.100004.
+  Base survival probability H OD relative to Rx = 0.849039.
+  Base survival probability Rx OD = 0.90205.
+  Developing HUD rate no Rx OUD  = 0.404998.
+  Developing HUD rate with Rx OUD  = 1.38199.
+  Developing Rx OUD rate  = 0.10335.
+  Fentanyl effect on base survival max relative to H = 0.686958.
+  Fentanyl effect on OD rate H max = 3.83599.
+  Fraction Nx kits to H users  = 0.54293.
+  Heroin availability strength developing HUD = 1.42224.
+  Heroin availability strength initiating NDHU no Rx = 1.52985.
+  Heroin availability strength net quit NDHU = 1.54029.
+  Initial stock correction[RXM] = 1.05838.
+  Initial stock correction[NDH] = 0.960447.
+  Initial stock correction[OUB] = 0.816671.
+  Initial stock correction[OUM] = 0.981317.
+  Initial stock correction[OUV] = 1.02123.
+  Initial stock correction[OUT] = 1.1751.
+  Initial stock correction[OUR] = 1.03124.
+  Initial stock correction[OUS] = 0.859419.
+  Initial stock correction[OHB] = 1.0559.
+  Initial stock correction[OHM] = 0.978214.
+  Initial stock correction[OHV] = 0.832234.
+  Initial stock correction[OHT] = 1.11675.
+  Initial stock correction[OHR] = 0.837974.
+  Initial stock correction[OHS] = 1.18436.
+  Initial stock correction[HUB] = 1.1915.
+  Initial stock correction[HUM] = 1.07456.
+  Initial stock correction[HUV] = 0.980444.
+  Initial stock correction[HUT] = 0.873221.
+  Initial stock correction[HUR] = 1.09838.
+  Initial stock correction[HUS] = 1.15585.
+  Initiating heroin no Rx base  = 113810.
+  Initiating Rx misuse diverted base  = 1.80005e+06.
+  Initiation rate heroin with Rx misuse  = 0.0150966.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.01975.
+  Initiation rate Rx misuse own Rx  = 0.086886.
+  Net quit rate heroin with Rx misuse  = 0.504922.
+  Net quit rate heroin with Rx OUD  = 0.0727973.
+  Net quit rate NDHU  = 0.110323.
+  Net quit rate Rx misuse = 0.397974.
+  NSDUH misuse redefinition fixed effect = 0.299923.
+  Nx kit distribution efficiency = 0.000822638.
+  Overdose rate base HUD = 0.177637.
+  Overdose rate NDHU relative to HUD = 0.834599.
+  Overdose rate base Rx misuse = 0.0165253.
+  Overdose rate base Rx OUD = 0.137301.
+  Overdose rate synth baseline = 0.0203381.
+  Perceived risk strength initiating heroin with Rx use = 0.0813492.
+  Perceived risk strength initiating NDHU no Rx = 1.91814.
+  Perceived risk strength initiating Rx misuse diverted = 1.36744.
+  Perceived risk strength initiating Rx misuse own Rx = 0.952595.
+  Perceived risk strength net quit heroin with Rx OUD = 0.289572.
+  Perceived risk strength net quit NDHU = 0.210534.
+  Perceived risk strength net quit NDHU with Rx = 0.132891.
+  Perceived risk strength net quit Rx misuse = 1.61716.
+  Relapse rate HUD = 0.356926.
+  Relapse rate Rx OUD relative to HUD = 0.741047.
+  Remission rate Rx OUD relative to HUD = 1.15928.
+  Rx availability strength developing Rx OUD = 0.263056.
+  Rx availability strength initiating Rx misuse = 0.655029.
+  Rx availability strength net quit Rx misuse = 0.755153.
+  Rx vs H availability strength developing HUD with Rx OUD = 0.887882.
+  Rx vs H availability strength initiating heroin with Rx OUD = 0.793659.
+  Rx vs H availability strength initiating NDHU with Rx = 0.785423.
+  Social influence strength developing HUD = 0.842557.
+  Social influence strength developing Rx OUD = 1.73831.
+  Social influence strength initiating heroin with Rx OUD = 0.0526799.
+  Social influence strength initiating NDHU no Rx = 0.341497.
+  Social influence strength initiating NDHU with Rx = 0.0192174.
+  Social influence strength initiating Rx misuse = 0.435109.
+  Time to stabilize remission = 6.50423.
+  Tx seeking rate Rx OUD no H total = 0.629221.
+Simulations = 1140617.
+NOTE 1 of the simulations caused floating point errors (first was reported).
+Optimizations = 7.
+Pass = 3.
+Payoff = -388819.
+---------------------------------.
+Maximum payoff found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.973836.
+  Base survival probability Rx OD = 0.971133.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.478928.
+  Developing Rx OUD rate  = 0.0332282.
+  Fentanyl effect on base survival max relative to H = 0.8.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.942748.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1.15872e-06.
+  Heroin availability strength net quit NDHU = 1.25758.
+  Initial stock correction[RXM] = 1.11658.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 0.97494.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 1.11015.
+  Initial stock correction[OUT] = 0.863989.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 1.12477.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 1.11344.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.987175.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.10727.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.955025.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119400.
+  Initiating Rx misuse diverted base  = 1.82437e+06.
+  Initiation rate heroin with Rx misuse  = 0.0135069.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.02269.
+  Initiation rate Rx misuse own Rx  = 0.0359132.
+  Net quit rate heroin with Rx misuse  = 0.10083.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.117233.
+  NSDUH misuse redefinition fixed effect = 0.467049.
+  Nx kit distribution efficiency = 0.000344443.
+  Overdose rate base HUD = 0.186894.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.322565.
+  Overdose rate synth baseline = 0.011755.
+  Perceived risk strength initiating heroin with Rx use = 0.87186.
+  Perceived risk strength initiating NDHU no Rx = 0.258698.
+  Perceived risk strength initiating Rx misuse diverted = 0.440561.
+  Perceived risk strength initiating Rx misuse own Rx = 0.556003.
+  Perceived risk strength net quit heroin with Rx OUD = 1.00324e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.762591.
+  Relapse rate HUD = 0.555758.
+  Relapse rate Rx OUD relative to HUD = 0.139068.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.24652.
+  Rx availability strength initiating Rx misuse = 0.235617.
+  Rx availability strength net quit Rx misuse = 1.71053.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.71038.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.030016.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1.02023e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.110189.
+  Social influence strength initiating NDHU with Rx = 1.82117.
+  Social influence strength initiating Rx misuse = 0.824859.
+  Time to stabilize remission = 9.53113.
+  Tx seeking rate Rx OUD no H total = 0.450038.
+Simulations = 1367619.
+Optimizations = 7.
+Pass = 3.
+Payoff = -63347.7.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	1315648     	1367619     .
+Iterations                    	190         	1569        .
+ ADF effect strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Base survival probability H OD relative to Rx	0.87125868  	0.87369665  .
+ Base survival probability Rx OD	0.93095765  	0.93199508  .
+ Developing HUD rate no Rx OUD 	0.05        	0.05        .
+ Developing HUD rate with Rx OUD 	0.48331353  	0.46089122  .
+ Developing Rx OUD rate       	0.031907531 	0.03326101  .
+ Fentanyl effect on base survival max relative to H	0.8         	0.8         .
+ Fentanyl effect on OD rate H max	4.5907648   	4.5086135   .
+ Fraction Nx kits to H users  	0.95        	0.95        .
+ Heroin availability strength developing HUD	1e-06       	1e-06       .
+ Heroin availability strength initiating NDHU no Rx	1e-06       	1e-06       .
+ Heroin availability strength net quit NDHU	1.5882024   	1.4607609   .
+ Initial stock correction[RXM]	1.1153085   	1.1034968   .
+ Initial stock correction[NDH]	1.2         	1.2         .
+ Initial stock correction[OUB]	0.81667088  	0.81667088  .
+ Initial stock correction[OUM]	0.8         	0.8         .
+ Initial stock correction[OUV]	1.021232    	1.02129     .
+ Initial stock correction[OUT]	0.90919492  	0.87245769  .
+ Initial stock correction[OUR]	0.8         	0.8         .
+ Initial stock correction[OUS]	0.8         	0.8         .
+ Initial stock correction[OHB]	1.0559009   	1.0559695   .
+ Initial stock correction[OHM]	0.8         	0.8         .
+ Initial stock correction[OHV]	0.83224496  	0.8322433   .
+ Initial stock correction[OHT]	1.1999586   	1.1997617   .
+ Initial stock correction[OHR]	0.8         	0.8         .
+ Initial stock correction[OHS]	0.8         	0.8         .
+ Initial stock correction[HUB]	1.1914992   	1.1915005   .
+ Initial stock correction[HUM]	1.2         	1.2         .
+ Initial stock correction[HUV]	0.98044582  	0.98044582  .
+ Initial stock correction[HUT]	0.8         	0.8         .
+ Initial stock correction[HUR]	0.8         	0.8         .
+ Initial stock correction[HUS]	1.2         	1.2         .
+ Initiating heroin no Rx base 	118555.77   	118673.03   .
+ Initiating Rx misuse diverted base 	1950077.3   	1841582.3   .
+ Initiation rate heroin with Rx misuse 	0.013821574 	0.013668475 .
+ Initiation rate heroin with Rx OUD relative to Rx misuse	3.9588184   	3.9138313   .
+ Initiation rate Rx misuse own Rx 	0.035657548 	0.036012728 .
+ Net quit rate heroin with Rx misuse 	0.13714702  	0.12279988  .
+ Net quit rate heroin with Rx OUD 	0.01        	0.01        .
+ Net quit rate NDHU           	0.49999999  	0.49999999  .
+ Net quit rate Rx misuse      	0.12710823  	0.11843133  .
+ NSDUH misuse redefinition fixed effect	0.46206787  	0.46035148  .
+ Nx kit distribution efficiency	0.0003416735	0.00034162955.
+ Overdose rate base HUD       	0.05514198  	0.056427791 .
+ Overdose rate NDHU relative to HUD	0.25        	0.25        .
+ Overdose rate base Rx misuse 	0.0010000014	0.0010000014.
+ Overdose rate base Rx OUD    	0.13176376  	0.13350984  .
+ Overdose rate synth baseline 	0.0081266059	0.0081415284.
+ Perceived risk strength initiating heroin with Rx use	0.62170386  	0.66787667  .
+ Perceived risk strength initiating NDHU no Rx	0.16823949  	0.15807828  .
+ Perceived risk strength initiating Rx misuse diverted	0.56237787  	0.49024452  .
+ Perceived risk strength initiating Rx misuse own Rx	0.58945447  	0.57590015  .
+ Perceived risk strength net quit heroin with Rx OUD	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU with Rx	1e-06       	1e-06       .
+ Perceived risk strength net quit Rx misuse	0.76264681  	0.76016606  .
+ Relapse rate HUD             	0.54238668  	0.54845035  .
+ Relapse rate Rx OUD relative to HUD	0.14426592  	0.14461846  .
+ Remission rate Rx OUD relative to HUD	1           	1           .
+ Rx availability strength developing Rx OUD	1.3440261   	1.2339788   .
+ Rx availability strength initiating Rx misuse	0.51008273  	0.32275446  .
+ Rx availability strength net quit Rx misuse	1.6228899   	1.5546331   .
+ Rx vs H availability strength developing HUD with Rx OUD	1.7923306   	1.8381719   .
+ Rx vs H availability strength initiating heroin with Rx OUD	1.1542822e-06	1.1542822e-06.
+ Rx vs H availability strength initiating NDHU with Rx	0.10053935  	0.051589572 .
+ Social influence strength developing HUD	1.0229138e-06	1.0229138e-06.
+ Social influence strength developing Rx OUD	6.4837819e-06	1e-06       .
+ Social influence strength initiating heroin with Rx OUD	1.7481371   	1.8390951   .
+ Social influence strength initiating NDHU no Rx	0.016035376 	4.6798434e-05.
+ Social influence strength initiating NDHU with Rx	1.4706197   	1.5804458   .
+ Social influence strength initiating Rx misuse	0.67417408  	0.81056481  .
+ Time to stabilize remission  	9.5667906   	9.5656792   .
+ Tx seeking rate Rx OUD no H total	0.44848573  	0.45577881  .
+Payoff                        	-63388.194  	-63385.734  .
+==============================.
+Initial point of search.
+  ADF effect strength initiating heroin with Rx OUD = 0.181911.
+  Base survival probability H OD relative to Rx = 0.801259.
+  Base survival probability Rx OD = 0.972314.
+  Developing HUD rate no Rx OUD  = 0.296813.
+  Developing HUD rate with Rx OUD  = 0.0970196.
+  Developing Rx OUD rate  = 0.249105.
+  Fentanyl effect on base survival max relative to H = 0.433445.
+  Fentanyl effect on OD rate H max = 2.49254.
+  Fraction Nx kits to H users  = 0.585203.
+  Heroin availability strength developing HUD = 0.164942.
+  Heroin availability strength initiating NDHU no Rx = 0.171229.
+  Heroin availability strength net quit NDHU = 1.75684.
+  Initial stock correction[RXM] = 1.10103.
+  Initial stock correction[NDH] = 0.964539.
+  Initial stock correction[OUB] = 1.04376.
+  Initial stock correction[OUM] = 0.985019.
+  Initial stock correction[OUV] = 0.875966.
+  Initial stock correction[OUT] = 1.15641.
+  Initial stock correction[OUR] = 1.12347.
+  Initial stock correction[OUS] = 0.8415.
+  Initial stock correction[OHB] = 0.850437.
+  Initial stock correction[OHM] = 1.03357.
+  Initial stock correction[OHV] = 0.871637.
+  Initial stock correction[OHT] = 1.10311.
+  Initial stock correction[OHR] = 1.14628.
+  Initial stock correction[OHS] = 1.19599.
+  Initial stock correction[HUB] = 1.17155.
+  Initial stock correction[HUM] = 0.830761.
+  Initial stock correction[HUV] = 1.18926.
+  Initial stock correction[HUT] = 1.18401.
+  Initial stock correction[HUR] = 0.891645.
+  Initial stock correction[HUS] = 0.976141.
+  Initiating heroin no Rx base  = 42201.2.
+  Initiating Rx misuse diverted base  = 2.38997e+06.
+  Initiation rate heroin with Rx misuse  = 0.0217668.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 3.63893.
+  Initiation rate Rx misuse own Rx  = 0.0393959.
+  Net quit rate heroin with Rx misuse  = 0.0227634.
+  Net quit rate heroin with Rx OUD  = 0.0762344.
+  Net quit rate NDHU  = 0.435066.
+  Net quit rate Rx misuse = 0.387794.
+  NSDUH misuse redefinition fixed effect = 0.192241.
+  Nx kit distribution efficiency = 0.00152753.
+  Overdose rate base HUD = 0.119134.
+  Overdose rate NDHU relative to HUD = 0.845618.
+  Overdose rate base Rx misuse = 0.00342138.
+  Overdose rate base Rx OUD = 0.123621.
+  Overdose rate synth baseline = 0.0213582.
+  Perceived risk strength initiating heroin with Rx use = 1.26307.
+  Perceived risk strength initiating NDHU no Rx = 1.20346.
+  Perceived risk strength initiating Rx misuse diverted = 1.17904.
+  Perceived risk strength initiating Rx misuse own Rx = 0.0976031.
+  Perceived risk strength net quit heroin with Rx OUD = 0.224387.
+  Perceived risk strength net quit NDHU = 0.257215.
+  Perceived risk strength net quit NDHU with Rx = 0.233676.
+  Perceived risk strength net quit Rx misuse = 1.15816.
+  Relapse rate HUD = 0.499105.
+  Relapse rate Rx OUD relative to HUD = 0.385216.
+  Remission rate Rx OUD relative to HUD = 1.70268.
+  Rx availability strength developing Rx OUD = 0.21352.
+  Rx availability strength initiating Rx misuse = 0.529296.
+  Rx availability strength net quit Rx misuse = 0.598937.
+  Rx vs H availability strength developing HUD with Rx OUD = 0.861194.
+  Rx vs H availability strength initiating heroin with Rx OUD = 0.739756.
+  Rx vs H availability strength initiating NDHU with Rx = 1.3439.
+  Social influence strength developing HUD = 1.4073.
+  Social influence strength developing Rx OUD = 1.28236.
+  Social influence strength initiating heroin with Rx OUD = 1.403.
+  Social influence strength initiating NDHU no Rx = 1.0788.
+  Social influence strength initiating NDHU with Rx = 1.71265.
+  Social influence strength initiating Rx misuse = 1.55338.
+  Time to stabilize remission = 3.71043.
+  Tx seeking rate Rx OUD no H total = 0.477501.
+Simulations = 1367620.
+Optimizations = 8.
+Pass = 3.
+Payoff = -253823.
+---------------------------------.
+Floating point error during optimization with.
+------------------.
+ *ADF effect strength initiating heroin with Rx OUD = 0.181911.
+ *Base survival probability H OD relative to Rx = 1.
+ *Base survival probability Rx OD = 0.972314.
+ *Developing HUD rate no Rx OUD  = 0.296813.
+ *Developing HUD rate with Rx OUD  = 0.0970196.
+ *Developing Rx OUD rate  = 0.0573526.
+ *Fentanyl effect on base survival max relative to H = 0.433445.
+ *Fentanyl effect on OD rate H max = 2.49254.
+ *Fraction Nx kits to H users  = 0.585203.
+ *Heroin availability strength developing HUD = 0.164942.
+ *Heroin availability strength initiating NDHU no Rx = 0.171229.
+ *Heroin availability strength net quit NDHU = 1.75684.
+ *Initial stock correction[RXM] = 1.10103.
+ *Initial stock correction[NDH] = 0.964539.
+ *Initial stock correction[OUB] = 1.04376.
+ *Initial stock correction[OUM] = 0.985019.
+ *Initial stock correction[OUV] = 0.875965.
+ *Initial stock correction[OUT] = 1.15641.
+ *Initial stock correction[OUR] = 1.12347.
+ *Initial stock correction[OUS] = 0.8415.
+ *Initial stock correction[OHB] = 0.850437.
+ *Initial stock correction[OHM] = 1.03357.
+ *Initial stock correction[OHV] = 0.871637.
+ *Initial stock correction[OHT] = 1.10311.
+ *Initial stock correction[OHR] = 1.14628.
+ *Initial stock correction[OHS] = 1.19599.
+ *Initial stock correction[HUB] = 1.17155.
+ *Initial stock correction[HUM] = 0.830761.
+ *Initial stock correction[HUV] = 1.18926.
+ *Initial stock correction[HUT] = 1.18401.
+ *Initial stock correction[HUR] = 0.891645.
+ *Initial stock correction[HUS] = 0.976141.
+ *Initiating heroin no Rx base  = 41100.6.
+ *Initiating Rx misuse diverted base  = 2.38997e+06.
+ *Initiation rate heroin with Rx misuse  = 0.0245251.
+ *Initiation rate heroin with Rx OUD relative to Rx misuse = 3.63893.
+ *Initiation rate Rx misuse own Rx  = 0.0393959.
+ *Net quit rate heroin with Rx misuse  = 0.0163817.
+ *Net quit rate heroin with Rx OUD  = 0.0762344.
+ *Net quit rate NDHU  = 0.435066.
+ *Net quit rate Rx misuse = 0.05.
+ *NSDUH misuse redefinition fixed effect = 0.192241.
+ *Nx kit distribution efficiency = 0.00152753.
+ *Overdose rate base HUD = 0.119134.
+ *Overdose rate NDHU relative to HUD = 1.
+ *Overdose rate base Rx misuse = 0.00342138.
+ *Overdose rate base Rx OUD = 0.214324.
+ *Overdose rate synth baseline = 0.005.
+ *Perceived risk strength initiating heroin with Rx use = 1.26307.
+ *Perceived risk strength initiating NDHU no Rx = 1e-06.
+ *Perceived risk strength initiating Rx misuse diverted = 2.
+ *Perceived risk strength initiating Rx misuse own Rx = 0.0976031.
+ *Perceived risk strength net quit heroin with Rx OUD = 0.224387.
+ *Perceived risk strength net quit NDHU = 0.257215.
+ *Perceived risk strength net quit NDHU with Rx = 0.233676.
+ *Perceived risk strength net quit Rx misuse = 1.15816.
+ *Relapse rate HUD = 0.499105.
+ *Relapse rate Rx OUD relative to HUD = 0.385216.
+ *Remission rate Rx OUD relative to HUD = 1.70268.
+ *Rx availability strength developing Rx OUD = 0.21352.
+ *Rx availability strength initiating Rx misuse = 0.529296.
+ *Rx availability strength net quit Rx misuse = 0.598937.
+ *Rx vs H availability strength developing HUD with Rx OUD = 2.
+ *Rx vs H availability strength initiating heroin with Rx OUD = 0.739756.
+ *Rx vs H availability strength initiating NDHU with Rx = 1.3439.
+ *Social influence strength developing HUD = 1.4073.
+ *Social influence strength developing Rx OUD = 1e-06.
+ *Social influence strength initiating heroin with Rx OUD = 1.403.
+ *Social influence strength initiating NDHU no Rx = 1.0788.
+ *Social influence strength initiating NDHU with Rx = 1.71265.
+ *Social influence strength initiating Rx misuse = 0.8786.
+ *Time to stabilize remission = 3.71043.
+ *Tx seeking rate Rx OUD no H total = 0.477501.
+------------------.
+Maximum payoff found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.973836.
+  Base survival probability Rx OD = 0.971133.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.478928.
+  Developing Rx OUD rate  = 0.0332282.
+  Fentanyl effect on base survival max relative to H = 0.8.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.942748.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1.15872e-06.
+  Heroin availability strength net quit NDHU = 1.25758.
+  Initial stock correction[RXM] = 1.11658.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 0.97494.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 1.11015.
+  Initial stock correction[OUT] = 0.863989.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 1.12477.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 1.11344.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.987175.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.10727.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.955025.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119400.
+  Initiating Rx misuse diverted base  = 1.82437e+06.
+  Initiation rate heroin with Rx misuse  = 0.0135069.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.02269.
+  Initiation rate Rx misuse own Rx  = 0.0359132.
+  Net quit rate heroin with Rx misuse  = 0.10083.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.117233.
+  NSDUH misuse redefinition fixed effect = 0.467049.
+  Nx kit distribution efficiency = 0.000344443.
+  Overdose rate base HUD = 0.186894.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.322565.
+  Overdose rate synth baseline = 0.011755.
+  Perceived risk strength initiating heroin with Rx use = 0.87186.
+  Perceived risk strength initiating NDHU no Rx = 0.258698.
+  Perceived risk strength initiating Rx misuse diverted = 0.440561.
+  Perceived risk strength initiating Rx misuse own Rx = 0.556003.
+  Perceived risk strength net quit heroin with Rx OUD = 1.00324e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.762591.
+  Relapse rate HUD = 0.555758.
+  Relapse rate Rx OUD relative to HUD = 0.139068.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.24652.
+  Rx availability strength initiating Rx misuse = 0.235617.
+  Rx availability strength net quit Rx misuse = 1.71053.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.71038.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.030016.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1.02023e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.110189.
+  Social influence strength initiating NDHU with Rx = 1.82117.
+  Social influence strength initiating Rx misuse = 0.824859.
+  Time to stabilize remission = 9.53113.
+  Tx seeking rate Rx OUD no H total = 0.450038.
+Simulations = 1618906.
+Optimizations = 8.
+Pass = 3.
+Payoff = -63347.7.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	1565890     	1618906     .
+Iterations                    	213         	1855        .
+ ADF effect strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Base survival probability H OD relative to Rx	0.96428793  	0.96841078  .
+ Base survival probability Rx OD	0.96942419  	0.9708923   .
+ Developing HUD rate no Rx OUD 	0.05        	0.05        .
+ Developing HUD rate with Rx OUD 	0.48251192  	0.46670594  .
+ Developing Rx OUD rate       	0.031948904 	0.032749735 .
+ Fentanyl effect on base survival max relative to H	0.70930045  	0.73662008  .
+ Fentanyl effect on OD rate H max	2           	2           .
+ Fraction Nx kits to H users  	0.95        	0.94887453  .
+ Heroin availability strength developing HUD	1e-06       	1e-06       .
+ Heroin availability strength initiating NDHU no Rx	1e-06       	1e-06       .
+ Heroin availability strength net quit NDHU	1.5038268   	1.4760836   .
+ Initial stock correction[RXM]	1.1503251   	1.1403229   .
+ Initial stock correction[NDH]	0.80064689  	0.80298924  .
+ Initial stock correction[OUB]	1.0437578   	1.0437578   .
+ Initial stock correction[OUM]	0.8         	0.8         .
+ Initial stock correction[OUV]	0.87596608  	0.87596835  .
+ Initial stock correction[OUT]	0.88973595  	0.87094332  .
+ Initial stock correction[OUR]	0.8         	0.8         .
+ Initial stock correction[OUS]	0.8         	0.8         .
+ Initial stock correction[OHB]	0.85044256  	0.85045056  .
+ Initial stock correction[OHM]	0.8         	0.8         .
+ Initial stock correction[OHV]	0.87163703  	0.87163703  .
+ Initial stock correction[OHT]	1.2         	1.2         .
+ Initial stock correction[OHR]	0.8         	0.8         .
+ Initial stock correction[OHS]	0.8         	0.8         .
+ Initial stock correction[HUB]	1.1715556   	1.1715556   .
+ Initial stock correction[HUM]	1.2         	1.2         .
+ Initial stock correction[HUV]	1.1892622   	1.1892629   .
+ Initial stock correction[HUT]	0.8         	0.8         .
+ Initial stock correction[HUR]	1.0182041   	1.0802741   .
+ Initial stock correction[HUS]	1.2         	1.2         .
+ Initiating heroin no Rx base 	118505.9    	119241.19   .
+ Initiating Rx misuse diverted base 	1856339.1   	1827032.7   .
+ Initiation rate heroin with Rx misuse 	0.011957646 	0.011616231 .
+ Initiation rate heroin with Rx OUD relative to Rx misuse	3.5614021   	3.6768292   .
+ Initiation rate Rx misuse own Rx 	0.035859318 	0.036013049 .
+ Net quit rate heroin with Rx misuse 	0.11987449  	0.11720285  .
+ Net quit rate heroin with Rx OUD 	0.01        	0.01        .
+ Net quit rate NDHU           	0.5         	0.5         .
+ Net quit rate Rx misuse      	0.1337039   	0.12408941  .
+ NSDUH misuse redefinition fixed effect	0.46063412  	0.46914526  .
+ Nx kit distribution efficiency	0.00034204755	0.00034261824.
+ Overdose rate base HUD       	0.1127587   	0.12432625  .
+ Overdose rate NDHU relative to HUD	1           	0.96570239  .
+ Overdose rate base Rx misuse 	0.001       	0.0010000042.
+ Overdose rate base Rx OUD    	0.30502789  	0.31993999  .
+ Overdose rate synth baseline 	0.0085112664	0.0093330081.
+ Perceived risk strength initiating heroin with Rx use	0.88562647  	0.89674609  .
+ Perceived risk strength initiating NDHU no Rx	0.36692464  	0.37633418  .
+ Perceived risk strength initiating Rx misuse diverted	0.47971055  	0.44060018  .
+ Perceived risk strength initiating Rx misuse own Rx	0.5650135   	0.56196279  .
+ Perceived risk strength net quit heroin with Rx OUD	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU with Rx	1e-06       	1e-06       .
+ Perceived risk strength net quit Rx misuse	0.67551867  	0.74566659  .
+ Relapse rate HUD             	0.54543649  	0.55042388  .
+ Relapse rate Rx OUD relative to HUD	0.14180651  	0.13929091  .
+ Remission rate Rx OUD relative to HUD	1           	1           .
+ Rx availability strength developing Rx OUD	1.3208039   	1.2794975   .
+ Rx availability strength initiating Rx misuse	0.25186697  	0.19365295  .
+ Rx availability strength net quit Rx misuse	1.7470812   	1.8806556   .
+ Rx vs H availability strength developing HUD with Rx OUD	1.6784965   	1.702212    .
+ Rx vs H availability strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Rx vs H availability strength initiating NDHU with Rx	0.089964468 	0.08226188  .
+ Social influence strength developing HUD	1e-06       	1e-06       .
+ Social influence strength developing Rx OUD	1e-06       	1e-06       .
+ Social influence strength initiating heroin with Rx OUD	2           	2           .
+ Social influence strength initiating NDHU no Rx	0.23291545  	0.23525877  .
+ Social influence strength initiating NDHU with Rx	1.6773193   	1.7297229   .
+ Social influence strength initiating Rx misuse	0.87005055  	0.85796229  .
+ Time to stabilize remission  	9.5253996   	9.513172    .
+ Tx seeking rate Rx OUD no H total	0.45551525  	0.44863763  .
+Payoff                        	-63375.064  	-63372.671  .
+==============================.
+Initial point of search.
+  ADF effect strength initiating heroin with Rx OUD = 0.544318.
+  Base survival probability H OD relative to Rx = 0.904535.
+  Base survival probability Rx OD = 0.949835.
+  Developing HUD rate no Rx OUD  = 0.177618.
+  Developing HUD rate with Rx OUD  = 0.920919.
+  Developing Rx OUD rate  = 0.232678.
+  Fentanyl effect on base survival max relative to H = 0.486804.
+  Fentanyl effect on OD rate H max = 2.26264.
+  Fraction Nx kits to H users  = 0.745448.
+  Heroin availability strength developing HUD = 1.20729.
+  Heroin availability strength initiating NDHU no Rx = 0.0986004.
+  Heroin availability strength net quit NDHU = 1.24201.
+  Initial stock correction[RXM] = 0.938399.
+  Initial stock correction[NDH] = 1.04162.
+  Initial stock correction[OUB] = 1.14495.
+  Initial stock correction[OUM] = 0.978651.
+  Initial stock correction[OUV] = 0.984372.
+  Initial stock correction[OUT] = 1.17835.
+  Initial stock correction[OUR] = 0.856565.
+  Initial stock correction[OUS] = 0.942996.
+  Initial stock correction[OHB] = 0.93597.
+  Initial stock correction[OHM] = 0.852587.
+  Initial stock correction[OHV] = 0.967503.
+  Initial stock correction[OHT] = 1.19754.
+  Initial stock correction[OHR] = 0.823776.
+  Initial stock correction[OHS] = 0.924663.
+  Initial stock correction[HUB] = 0.95355.
+  Initial stock correction[HUM] = 0.874837.
+  Initial stock correction[HUV] = 1.06192.
+  Initial stock correction[HUT] = 1.19173.
+  Initial stock correction[HUR] = 0.903703.
+  Initial stock correction[HUS] = 1.07334.
+  Initiating heroin no Rx base  = 152560.
+  Initiating Rx misuse diverted base  = 1.97737e+06.
+  Initiation rate heroin with Rx misuse  = 0.016399.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.06863.
+  Initiation rate Rx misuse own Rx  = 0.0342818.
+  Net quit rate heroin with Rx misuse  = 0.651274.
+  Net quit rate heroin with Rx OUD  = 0.117076.
+  Net quit rate NDHU  = 0.16635.
+  Net quit rate Rx misuse = 0.120905.
+  NSDUH misuse redefinition fixed effect = 0.471783.
+  Nx kit distribution efficiency = 0.00043295.
+  Overdose rate base HUD = 0.141218.
+  Overdose rate NDHU relative to HUD = 0.521955.
+  Overdose rate base Rx misuse = 0.00359092.
+  Overdose rate base Rx OUD = 0.0580652.
+  Overdose rate synth baseline = 0.0663699.
+  Perceived risk strength initiating heroin with Rx use = 0.136985.
+  Perceived risk strength initiating NDHU no Rx = 1.87.
+  Perceived risk strength initiating Rx misuse diverted = 0.703247.
+  Perceived risk strength initiating Rx misuse own Rx = 0.2571.
+  Perceived risk strength net quit heroin with Rx OUD = 0.247134.
+  Perceived risk strength net quit NDHU = 0.4284.
+  Perceived risk strength net quit NDHU with Rx = 0.128405.
+  Perceived risk strength net quit Rx misuse = 1.56696.
+  Relapse rate HUD = 0.0983515.
+  Relapse rate Rx OUD relative to HUD = 0.295861.
+  Remission rate Rx OUD relative to HUD = 1.48109.
+  Rx availability strength developing Rx OUD = 1.39573.
+  Rx availability strength initiating Rx misuse = 1.60303.
+  Rx availability strength net quit Rx misuse = 0.478598.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.73905.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1.3578.
+  Rx vs H availability strength initiating NDHU with Rx = 1.05371.
+  Social influence strength developing HUD = 0.497829.
+  Social influence strength developing Rx OUD = 1.26704.
+  Social influence strength initiating heroin with Rx OUD = 1.9529.
+  Social influence strength initiating NDHU no Rx = 0.641079.
+  Social influence strength initiating NDHU with Rx = 0.771587.
+  Social influence strength initiating Rx misuse = 1.07368.
+  Time to stabilize remission = 13.7896.
+  Tx seeking rate Rx OUD no H total = 0.251778.
+Simulations = 1618907.
+Optimizations = 9.
+Pass = 3.
+Payoff = -809112.
+---------------------------------.
+Floating point error during optimization with.
+------------------.
+ *ADF effect strength initiating heroin with Rx OUD = 0.544318.
+ *Base survival probability H OD relative to Rx = 0.904535.
+ *Base survival probability Rx OD = 0.949835.
+ *Developing HUD rate no Rx OUD  = 0.177618.
+ *Developing HUD rate with Rx OUD  = 0.920919.
+ *Developing Rx OUD rate  = 0.232678.
+ *Fentanyl effect on base survival max relative to H = 0.486804.
+ *Fentanyl effect on OD rate H max = 2.26264.
+ *Fraction Nx kits to H users  = 0.745448.
+ *Heroin availability strength developing HUD = 1.20729.
+ *Heroin availability strength initiating NDHU no Rx = 0.0986004.
+ *Heroin availability strength net quit NDHU = 1.24201.
+ *Initial stock correction[RXM] = 0.938399.
+ *Initial stock correction[NDH] = 1.04162.
+ *Initial stock correction[OUB] = 1.14495.
+ *Initial stock correction[OUM] = 0.978651.
+ *Initial stock correction[OUV] = 0.984372.
+ *Initial stock correction[OUT] = 1.17835.
+ *Initial stock correction[OUR] = 0.856565.
+ *Initial stock correction[OUS] = 0.942996.
+ *Initial stock correction[OHB] = 0.93597.
+ *Initial stock correction[OHM] = 0.852587.
+ *Initial stock correction[OHV] = 0.967503.
+ *Initial stock correction[OHT] = 1.19754.
+ *Initial stock correction[OHR] = 0.823776.
+ *Initial stock correction[OHS] = 0.924663.
+ *Initial stock correction[HUB] = 0.95355.
+ *Initial stock correction[HUM] = 0.874837.
+ *Initial stock correction[HUV] = 1.06192.
+ *Initial stock correction[HUT] = 1.19173.
+ *Initial stock correction[HUR] = 0.903703.
+ *Initial stock correction[HUS] = 1.07334.
+ *Initiating heroin no Rx base  = 152560.
+ *Initiating Rx misuse diverted base  = 1.97737e+06.
+ *Initiation rate heroin with Rx misuse  = 0.016399.
+ *Initiation rate heroin with Rx OUD relative to Rx misuse = 4.06863.
+ *Initiation rate Rx misuse own Rx  = 0.0342818.
+ *Net quit rate heroin with Rx misuse  = 0.651274.
+ *Net quit rate heroin with Rx OUD  = 0.117076.
+ *Net quit rate NDHU  = 0.16635.
+ *Net quit rate Rx misuse = 0.120905.
+ *NSDUH misuse redefinition fixed effect = 0.471783.
+ *Nx kit distribution efficiency = 0.00043295.
+ *Overdose rate base HUD = 0.141218.
+ *Overdose rate NDHU relative to HUD = 0.521955.
+ *Overdose rate base Rx misuse = 0.00359092.
+ *Overdose rate base Rx OUD = 0.0580652.
+ *Overdose rate synth baseline = 0.0663699.
+ *Perceived risk strength initiating heroin with Rx use = 0.136985.
+ *Perceived risk strength initiating NDHU no Rx = 1.87.
+ *Perceived risk strength initiating Rx misuse diverted = 0.703247.
+ *Perceived risk strength initiating Rx misuse own Rx = 0.2571.
+ *Perceived risk strength net quit heroin with Rx OUD = 0.247134.
+ *Perceived risk strength net quit NDHU = 0.4284.
+ *Perceived risk strength net quit NDHU with Rx = 0.128405.
+ *Perceived risk strength net quit Rx misuse = 1.56696.
+ *Relapse rate HUD = 0.0983515.
+ *Relapse rate Rx OUD relative to HUD = 0.295861.
+ *Remission rate Rx OUD relative to HUD = 1.48109.
+ *Rx availability strength developing Rx OUD = 1.39573.
+ *Rx availability strength initiating Rx misuse = 1.60303.
+ *Rx availability strength net quit Rx misuse = 0.478598.
+ *Rx vs H availability strength developing HUD with Rx OUD = 1.73905.
+ *Rx vs H availability strength initiating heroin with Rx OUD = 1.3578.
+ *Rx vs H availability strength initiating NDHU with Rx = 1.05371.
+ *Social influence strength developing HUD = 2.
+ *Social influence strength developing Rx OUD = 1.26704.
+ *Social influence strength initiating heroin with Rx OUD = 1.9529.
+ *Social influence strength initiating NDHU no Rx = 0.641079.
+ *Social influence strength initiating NDHU with Rx = 0.771587.
+ *Social influence strength initiating Rx misuse = 1.07368.
+ *Time to stabilize remission = 13.7896.
+ *Tx seeking rate Rx OUD no H total = 0.251778.
+------------------.
+Maximum payoff found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.973836.
+  Base survival probability Rx OD = 0.971133.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.478928.
+  Developing Rx OUD rate  = 0.0332282.
+  Fentanyl effect on base survival max relative to H = 0.8.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.942748.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1.15872e-06.
+  Heroin availability strength net quit NDHU = 1.25758.
+  Initial stock correction[RXM] = 1.11658.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 0.97494.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 1.11015.
+  Initial stock correction[OUT] = 0.863989.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 1.12477.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 1.11344.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.987175.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.10727.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.955025.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119400.
+  Initiating Rx misuse diverted base  = 1.82437e+06.
+  Initiation rate heroin with Rx misuse  = 0.0135069.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.02269.
+  Initiation rate Rx misuse own Rx  = 0.0359132.
+  Net quit rate heroin with Rx misuse  = 0.10083.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.117233.
+  NSDUH misuse redefinition fixed effect = 0.467049.
+  Nx kit distribution efficiency = 0.000344443.
+  Overdose rate base HUD = 0.186894.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.322565.
+  Overdose rate synth baseline = 0.011755.
+  Perceived risk strength initiating heroin with Rx use = 0.87186.
+  Perceived risk strength initiating NDHU no Rx = 0.258698.
+  Perceived risk strength initiating Rx misuse diverted = 0.440561.
+  Perceived risk strength initiating Rx misuse own Rx = 0.556003.
+  Perceived risk strength net quit heroin with Rx OUD = 1.00324e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.762591.
+  Relapse rate HUD = 0.555758.
+  Relapse rate Rx OUD relative to HUD = 0.139068.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.24652.
+  Rx availability strength initiating Rx misuse = 0.235617.
+  Rx availability strength net quit Rx misuse = 1.71053.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.71038.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.030016.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1.02023e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.110189.
+  Social influence strength initiating NDHU with Rx = 1.82117.
+  Social influence strength initiating Rx misuse = 0.824859.
+  Time to stabilize remission = 9.53113.
+  Tx seeking rate Rx OUD no H total = 0.450038.
+Simulations = 1979040.
+Optimizations = 9.
+Pass = 3.
+Payoff = -63347.7.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	1927756     	1979040     .
+Iterations                    	335         	2263        .
+ ADF effect strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Base survival probability H OD relative to Rx	0.97593303  	0.97373405  .
+ Base survival probability Rx OD	0.96943202  	0.97108548  .
+ Developing HUD rate no Rx OUD 	0.05        	0.05        .
+ Developing HUD rate with Rx OUD 	0.46497993  	0.46890579  .
+ Developing Rx OUD rate       	0.034424696 	0.033449175 .
+ Fentanyl effect on base survival max relative to H	0.8         	0.8         .
+ Fentanyl effect on OD rate H max	2           	2           .
+ Fraction Nx kits to H users  	0.93924886  	0.94260531  .
+ Heroin availability strength developing HUD	1e-06       	1e-06       .
+ Heroin availability strength initiating NDHU no Rx	1e-06       	1e-06       .
+ Heroin availability strength net quit NDHU	1.281056    	1.2706286   .
+ Initial stock correction[RXM]	1.0908235   	1.113068    .
+ Initial stock correction[NDH]	1.2         	1.2         .
+ Initial stock correction[OUB]	1.1449539   	1.1449572   .
+ Initial stock correction[OUM]	0.8         	0.8         .
+ Initial stock correction[OUV]	0.98437538  	0.98437538  .
+ Initial stock correction[OUT]	0.83652598  	0.85748754  .
+ Initial stock correction[OUR]	0.8         	0.8         .
+ Initial stock correction[OUS]	0.8         	0.8         .
+ Initial stock correction[OHB]	0.9359741   	0.93598653  .
+ Initial stock correction[OHM]	0.80000003  	0.80000003  .
+ Initial stock correction[OHV]	0.96750484  	0.96750812  .
+ Initial stock correction[OHT]	1.2         	1.2         .
+ Initial stock correction[OHR]	0.8         	0.8         .
+ Initial stock correction[OHS]	0.8         	0.8         .
+ Initial stock correction[HUB]	0.95355445  	0.95355445  .
+ Initial stock correction[HUM]	1.2         	1.2         .
+ Initial stock correction[HUV]	1.0619183   	1.0619183   .
+ Initial stock correction[HUT]	0.8         	0.8         .
+ Initial stock correction[HUR]	1.0057669   	0.96744199  .
+ Initial stock correction[HUS]	1.2         	1.2         .
+ Initiating heroin no Rx base 	119403.42   	119529.08   .
+ Initiating Rx misuse diverted base 	1812852.6   	1807515.7   .
+ Initiation rate heroin with Rx misuse 	0.013450686 	0.013498105 .
+ Initiation rate heroin with Rx OUD relative to Rx misuse	4.0501576   	4.0045717   .
+ Initiation rate Rx misuse own Rx 	0.035969318 	0.035793317 .
+ Net quit rate heroin with Rx misuse 	0.10488406  	0.10264814  .
+ Net quit rate heroin with Rx OUD 	0.01        	0.01        .
+ Net quit rate NDHU           	0.5         	0.5         .
+ Net quit rate Rx misuse      	0.10600772  	0.11327181  .
+ NSDUH misuse redefinition fixed effect	0.47097882  	0.46991254  .
+ Nx kit distribution efficiency	0.00034595535	0.00034451447.
+ Overdose rate base HUD       	0.18739287  	0.18669515  .
+ Overdose rate NDHU relative to HUD	0.25        	0.25        .
+ Overdose rate base Rx misuse 	0.001       	0.001       .
+ Overdose rate base Rx OUD    	0.30467242  	0.32213117  .
+ Overdose rate synth baseline 	0.011780513 	0.011747792 .
+ Perceived risk strength initiating heroin with Rx use	0.87489816  	0.86423378  .
+ Perceived risk strength initiating NDHU no Rx	0.27142272  	0.25076205  .
+ Perceived risk strength initiating Rx misuse diverted	0.43897181  	0.42558935  .
+ Perceived risk strength initiating Rx misuse own Rx	0.54430883  	0.55076216  .
+ Perceived risk strength net quit heroin with Rx OUD	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU with Rx	1e-06       	1e-06       .
+ Perceived risk strength net quit Rx misuse	0.81611677  	0.80108126  .
+ Relapse rate HUD             	0.55676478  	0.55610884  .
+ Relapse rate Rx OUD relative to HUD	0.13785397  	0.13905813  .
+ Remission rate Rx OUD relative to HUD	1           	1           .
+ Rx availability strength developing Rx OUD	1.1789137   	1.2270866   .
+ Rx availability strength initiating Rx misuse	0.27342159  	0.20323921  .
+ Rx availability strength net quit Rx misuse	1.7562655   	1.7848882   .
+ Rx vs H availability strength developing HUD with Rx OUD	1.6916525   	1.7465837   .
+ Rx vs H availability strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Rx vs H availability strength initiating NDHU with Rx	0.019670402 	0.0257967   .
+ Social influence strength developing HUD	1e-06       	1e-06       .
+ Social influence strength developing Rx OUD	1.0709243e-06	1.0709243e-06.
+ Social influence strength initiating heroin with Rx OUD	1.9999998   	1.9999998   .
+ Social influence strength initiating NDHU no Rx	0.12986747  	0.097342401 .
+ Social influence strength initiating NDHU with Rx	1.8374345   	1.8162859   .
+ Social influence strength initiating Rx misuse	0.81055297  	0.8299921   .
+ Time to stabilize remission  	9.5224485   	9.5365721   .
+ Tx seeking rate Rx OUD no H total	0.45011621  	0.45178145  .
+Payoff                        	-63348.223  	-63347.715  .
+==============================.
+Initial point of search.
+  ADF effect strength initiating heroin with Rx OUD = 0.702702.
+  Base survival probability H OD relative to Rx = 0.826908.
+  Base survival probability Rx OD = 0.938424.
+  Developing HUD rate no Rx OUD  = 0.478176.
+  Developing HUD rate with Rx OUD  = 0.701944.
+  Developing Rx OUD rate  = 0.137621.
+  Fentanyl effect on base survival max relative to H = 0.383197.
+  Fentanyl effect on OD rate H max = 6.91317.
+  Fraction Nx kits to H users  = 0.809288.
+  Heroin availability strength developing HUD = 0.653071.
+  Heroin availability strength initiating NDHU no Rx = 1.83568.
+  Heroin availability strength net quit NDHU = 1.93098.
+  Initial stock correction[RXM] = 0.877049.
+  Initial stock correction[NDH] = 0.893586.
+  Initial stock correction[OUB] = 1.01634.
+  Initial stock correction[OUM] = 1.11319.
+  Initial stock correction[OUV] = 0.866139.
+  Initial stock correction[OUT] = 0.923279.
+  Initial stock correction[OUR] = 0.957295.
+  Initial stock correction[OUS] = 0.944674.
+  Initial stock correction[OHB] = 0.935713.
+  Initial stock correction[OHM] = 1.06699.
+  Initial stock correction[OHV] = 0.890149.
+  Initial stock correction[OHT] = 1.18551.
+  Initial stock correction[OHR] = 1.05106.
+  Initial stock correction[OHS] = 1.16223.
+  Initial stock correction[HUB] = 0.963135.
+  Initial stock correction[HUM] = 0.967134.
+  Initial stock correction[HUV] = 1.15111.
+  Initial stock correction[HUT] = 1.07294.
+  Initial stock correction[HUR] = 1.03159.
+  Initial stock correction[HUS] = 0.832601.
+  Initiating heroin no Rx base  = 85808.1.
+  Initiating Rx misuse diverted base  = 2.39524e+06.
+  Initiation rate heroin with Rx misuse  = 0.0156844.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.87707.
+  Initiation rate Rx misuse own Rx  = 0.0221741.
+  Net quit rate heroin with Rx misuse  = 0.395194.
+  Net quit rate heroin with Rx OUD  = 0.166963.
+  Net quit rate NDHU  = 0.0906885.
+  Net quit rate Rx misuse = 0.252547.
+  NSDUH misuse redefinition fixed effect = 0.302246.
+  Nx kit distribution efficiency = 0.000562771.
+  Overdose rate base HUD = 0.194941.
+  Overdose rate NDHU relative to HUD = 0.343411.
+  Overdose rate base Rx misuse = 0.0217599.
+  Overdose rate base Rx OUD = 0.30805.
+  Overdose rate synth baseline = 0.0551956.
+  Perceived risk strength initiating heroin with Rx use = 1.87201.
+  Perceived risk strength initiating NDHU no Rx = 1.07551.
+  Perceived risk strength initiating Rx misuse diverted = 0.16712.
+  Perceived risk strength initiating Rx misuse own Rx = 1.17985.
+  Perceived risk strength net quit heroin with Rx OUD = 0.370902.
+  Perceived risk strength net quit NDHU = 0.105479.
+  Perceived risk strength net quit NDHU with Rx = 0.33667.
+  Perceived risk strength net quit Rx misuse = 1.09514.
+  Relapse rate HUD = 0.196713.
+  Relapse rate Rx OUD relative to HUD = 0.27026.
+  Remission rate Rx OUD relative to HUD = 1.95409.
+  Rx availability strength developing Rx OUD = 1.03379.
+  Rx availability strength initiating Rx misuse = 0.974682.
+  Rx availability strength net quit Rx misuse = 1.30197.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.2012.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1.42965.
+  Rx vs H availability strength initiating NDHU with Rx = 1.92232.
+  Social influence strength developing HUD = 0.26192.
+  Social influence strength developing Rx OUD = 1.04329.
+  Social influence strength initiating heroin with Rx OUD = 0.716662.
+  Social influence strength initiating NDHU no Rx = 0.792824.
+  Social influence strength initiating NDHU with Rx = 1.62014.
+  Social influence strength initiating Rx misuse = 1.94937.
+  Time to stabilize remission = 15.1225.
+  Tx seeking rate Rx OUD no H total = 0.603973.
+Simulations = 1979041.
+Optimizations = 10.
+Pass = 3.
+Payoff = -1.53492e+06.
+---------------------------------.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OUB] = 1.01635 and 1.01636.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.93571 and 0.93571.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[OHB] = 0.93571 and 0.93571.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.963138 and 0.963138.
+NOTE Payoff (-63347.7) realized at multiple parameter values.
+With Initial stock correction[HUB] = 0.963138 and 0.963138.
+Maximum payoff found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.973495.
+  Base survival probability Rx OD = 0.971488.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.477405.
+  Developing Rx OUD rate  = 0.0332868.
+  Fentanyl effect on base survival max relative to H = 0.8.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.943348.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1e-06.
+  Heroin availability strength net quit NDHU = 1.24238.
+  Initial stock correction[RXM] = 1.11727.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 1.01636.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 0.866141.
+  Initial stock correction[OUT] = 0.861746.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 0.93571.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 0.890151.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.963138.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.15111.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.956333.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119458.
+  Initiating Rx misuse diverted base  = 1.80653e+06.
+  Initiation rate heroin with Rx misuse  = 0.01346.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.03065.
+  Initiation rate Rx misuse own Rx  = 0.035868.
+  Net quit rate heroin with Rx misuse  = 0.098861.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.115629.
+  NSDUH misuse redefinition fixed effect = 0.46871.
+  Nx kit distribution efficiency = 0.000344097.
+  Overdose rate base HUD = 0.186928.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.326569.
+  Overdose rate synth baseline = 0.0117526.
+  Perceived risk strength initiating heroin with Rx use = 0.870429.
+  Perceived risk strength initiating NDHU no Rx = 0.256511.
+  Perceived risk strength initiating Rx misuse diverted = 0.425934.
+  Perceived risk strength initiating Rx misuse own Rx = 0.554427.
+  Perceived risk strength net quit heroin with Rx OUD = 1e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.781016.
+  Relapse rate HUD = 0.556286.
+  Relapse rate Rx OUD relative to HUD = 0.138871.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.23783.
+  Rx availability strength initiating Rx misuse = 0.194437.
+  Rx availability strength net quit Rx misuse = 1.7511.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.71579.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.0273106.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1.00284e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.106789.
+  Social influence strength initiating NDHU with Rx = 1.82769.
+  Social influence strength initiating Rx misuse = 0.839047.
+  Time to stabilize remission = 9.53193.
+  Tx seeking rate Rx OUD no H total = 0.450488.
+Simulations = 2282774.
+Optimizations = 10.
+Pass = 3.
+Payoff = -63347.7.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	2232463     	2282774     .
+Iterations                    	279         	2615        .
+ ADF effect strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Base survival probability H OD relative to Rx	0.97215697  	0.97349463  .
+ Base survival probability Rx OD	0.97146473  	0.97148807  .
+ Developing HUD rate no Rx OUD 	0.05        	0.05        .
+ Developing HUD rate with Rx OUD 	0.47984635  	0.47740538  .
+ Developing Rx OUD rate       	0.033202917 	0.033286824 .
+ Fentanyl effect on base survival max relative to H	0.79646012  	0.8         .
+ Fentanyl effect on OD rate H max	2.0000003   	2.0000003   .
+ Fraction Nx kits to H users  	0.94442187  	0.9433484   .
+ Heroin availability strength developing HUD	1e-06       	1e-06       .
+ Heroin availability strength initiating NDHU no Rx	1e-06       	1e-06       .
+ Heroin availability strength net quit NDHU	1.2451817   	1.2423808   .
+ Initial stock correction[RXM]	1.1217464   	1.1172687   .
+ Initial stock correction[NDH]	1.2         	1.2         .
+ Initial stock correction[OUB]	1.0163529   	1.0163551   .
+ Initial stock correction[OUM]	0.8         	0.8         .
+ Initial stock correction[OUV]	0.86614068  	0.86614068  .
+ Initial stock correction[OUT]	0.86340257  	0.86174561  .
+ Initial stock correction[OUR]	0.8         	0.8         .
+ Initial stock correction[OUS]	0.8         	0.8         .
+ Initial stock correction[OHB]	0.9357167   	0.93570972  .
+ Initial stock correction[OHM]	0.8         	0.8         .
+ Initial stock correction[OHV]	0.89015088  	0.89015088  .
+ Initial stock correction[OHT]	1.2         	1.2         .
+ Initial stock correction[OHR]	0.8         	0.8         .
+ Initial stock correction[OHS]	0.8         	0.8         .
+ Initial stock correction[HUB]	0.96313646  	0.96313795  .
+ Initial stock correction[HUM]	1.2         	1.2         .
+ Initial stock correction[HUV]	1.1511074   	1.15111     .
+ Initial stock correction[HUT]	0.8         	0.8         .
+ Initial stock correction[HUR]	0.94539136  	0.95633291  .
+ Initial stock correction[HUS]	1.2         	1.2         .
+ Initiating heroin no Rx base 	119844.24   	119458.11   .
+ Initiating Rx misuse diverted base 	1800005.3   	1806534.1   .
+ Initiation rate heroin with Rx misuse 	0.013403002 	0.013460025 .
+ Initiation rate heroin with Rx OUD relative to Rx misuse	4.0455792   	4.030648    .
+ Initiation rate Rx misuse own Rx 	0.03565219  	0.035867971 .
+ Net quit rate heroin with Rx misuse 	0.098041936 	0.098860989 .
+ Net quit rate heroin with Rx OUD 	0.01        	0.01        .
+ Net quit rate NDHU           	0.5         	0.5         .
+ Net quit rate Rx misuse      	0.11618981  	0.11562946  .
+ NSDUH misuse redefinition fixed effect	0.4698461   	0.46870954  .
+ Nx kit distribution efficiency	0.00034377215	0.0003440965.
+ Overdose rate base HUD       	0.18289919  	0.18692845  .
+ Overdose rate NDHU relative to HUD	0.25        	0.25        .
+ Overdose rate base Rx misuse 	0.001       	0.001       .
+ Overdose rate base Rx OUD    	0.32594445  	0.32656932  .
+ Overdose rate synth baseline 	0.011532351 	0.011752555 .
+ Perceived risk strength initiating heroin with Rx use	0.86864741  	0.87042914  .
+ Perceived risk strength initiating NDHU no Rx	0.23217837  	0.25651074  .
+ Perceived risk strength initiating Rx misuse diverted	0.41369041  	0.42593397  .
+ Perceived risk strength initiating Rx misuse own Rx	0.55335249  	0.55442683  .
+ Perceived risk strength net quit heroin with Rx OUD	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU	1e-06       	1e-06       .
+ Perceived risk strength net quit NDHU with Rx	1e-06       	1e-06       .
+ Perceived risk strength net quit Rx misuse	0.78774218  	0.78101626  .
+ Relapse rate HUD             	0.55637533  	0.55628615  .
+ Relapse rate Rx OUD relative to HUD	0.13904207  	0.13887068  .
+ Remission rate Rx OUD relative to HUD	1.0000001   	1.0000001   .
+ Rx availability strength developing Rx OUD	1.2413041   	1.237827    .
+ Rx availability strength initiating Rx misuse	0.14212608  	0.19443726  .
+ Rx availability strength net quit Rx misuse	1.7976735   	1.7510987   .
+ Rx vs H availability strength developing HUD with Rx OUD	1.7168794   	1.7157944   .
+ Rx vs H availability strength initiating heroin with Rx OUD	1e-06       	1e-06       .
+ Rx vs H availability strength initiating NDHU with Rx	0.040306023 	0.027310616 .
+ Social influence strength developing HUD	1e-06       	1e-06       .
+ Social influence strength developing Rx OUD	1.0028426e-06	1.0028426e-06.
+ Social influence strength initiating heroin with Rx OUD	2           	2           .
+ Social influence strength initiating NDHU no Rx	0.067159971 	0.10678881  .
+ Social influence strength initiating NDHU with Rx	1.8215177   	1.8276926   .
+ Social influence strength initiating Rx misuse	0.84779407  	0.83904656  .
+ Time to stabilize remission  	9.5342981   	9.5319259   .
+ Tx seeking rate Rx OUD no H total	0.45032234  	0.45048766  .
+Payoff                        	-63347.955  	-63347.69   .
+==============================.
+Shutting down 46 helper threads.
+Maximum of simulations/optimizations found at:.
+  ADF effect strength initiating heroin with Rx OUD = 1e-06.
+  Base survival probability H OD relative to Rx = 0.973495.
+  Base survival probability Rx OD = 0.971488.
+  Developing HUD rate no Rx OUD  = 0.05.
+  Developing HUD rate with Rx OUD  = 0.477405.
+  Developing Rx OUD rate  = 0.0332868.
+  Fentanyl effect on base survival max relative to H = 0.8.
+  Fentanyl effect on OD rate H max = 2.
+  Fraction Nx kits to H users  = 0.943348.
+  Heroin availability strength developing HUD = 1e-06.
+  Heroin availability strength initiating NDHU no Rx = 1e-06.
+  Heroin availability strength net quit NDHU = 1.24238.
+  Initial stock correction[RXM] = 1.11727.
+  Initial stock correction[NDH] = 1.2.
+  Initial stock correction[OUB] = 1.01636.
+  Initial stock correction[OUM] = 0.8.
+  Initial stock correction[OUV] = 0.866141.
+  Initial stock correction[OUT] = 0.861746.
+  Initial stock correction[OUR] = 0.8.
+  Initial stock correction[OUS] = 0.8.
+  Initial stock correction[OHB] = 0.93571.
+  Initial stock correction[OHM] = 0.8.
+  Initial stock correction[OHV] = 0.890151.
+  Initial stock correction[OHT] = 1.2.
+  Initial stock correction[OHR] = 0.8.
+  Initial stock correction[OHS] = 0.8.
+  Initial stock correction[HUB] = 0.963138.
+  Initial stock correction[HUM] = 1.2.
+  Initial stock correction[HUV] = 1.15111.
+  Initial stock correction[HUT] = 0.8.
+  Initial stock correction[HUR] = 0.956333.
+  Initial stock correction[HUS] = 1.2.
+  Initiating heroin no Rx base  = 119458.
+  Initiating Rx misuse diverted base  = 1.80653e+06.
+  Initiation rate heroin with Rx misuse  = 0.01346.
+  Initiation rate heroin with Rx OUD relative to Rx misuse = 4.03065.
+  Initiation rate Rx misuse own Rx  = 0.035868.
+  Net quit rate heroin with Rx misuse  = 0.098861.
+  Net quit rate heroin with Rx OUD  = 0.01.
+  Net quit rate NDHU  = 0.5.
+  Net quit rate Rx misuse = 0.115629.
+  NSDUH misuse redefinition fixed effect = 0.46871.
+  Nx kit distribution efficiency = 0.000344097.
+  Overdose rate base HUD = 0.186928.
+  Overdose rate NDHU relative to HUD = 0.25.
+  Overdose rate base Rx misuse = 0.001.
+  Overdose rate base Rx OUD = 0.326569.
+  Overdose rate synth baseline = 0.0117526.
+  Perceived risk strength initiating heroin with Rx use = 0.870429.
+  Perceived risk strength initiating NDHU no Rx = 0.256511.
+  Perceived risk strength initiating Rx misuse diverted = 0.425934.
+  Perceived risk strength initiating Rx misuse own Rx = 0.554427.
+  Perceived risk strength net quit heroin with Rx OUD = 1e-06.
+  Perceived risk strength net quit NDHU = 1e-06.
+  Perceived risk strength net quit NDHU with Rx = 1e-06.
+  Perceived risk strength net quit Rx misuse = 0.781016.
+  Relapse rate HUD = 0.556286.
+  Relapse rate Rx OUD relative to HUD = 0.138871.
+  Remission rate Rx OUD relative to HUD = 1.
+  Rx availability strength developing Rx OUD = 1.23783.
+  Rx availability strength initiating Rx misuse = 0.194437.
+  Rx availability strength net quit Rx misuse = 1.7511.
+  Rx vs H availability strength developing HUD with Rx OUD = 1.71579.
+  Rx vs H availability strength initiating heroin with Rx OUD = 1e-06.
+  Rx vs H availability strength initiating NDHU with Rx = 0.0273106.
+  Social influence strength developing HUD = 1e-06.
+  Social influence strength developing Rx OUD = 1.00284e-06.
+  Social influence strength initiating heroin with Rx OUD = 2.
+  Social influence strength initiating NDHU no Rx = 0.106789.
+  Social influence strength initiating NDHU with Rx = 1.82769.
+  Social influence strength initiating Rx misuse = 0.839047.
+  Time to stabilize remission = 9.53193.
+  Tx seeking rate Rx OUD no H total = 0.450488.
+Simulations = 2282774.
+Optimizations = 10.
+Pass = 3.
+Payoff = -63347.7.
+---------------------------------.

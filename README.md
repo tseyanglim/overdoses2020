@@ -17,6 +17,9 @@ Vensim data format (VDF/VDFX) output files from model analysis, as well as MCMC 
 ### [Vensim Files](Vensim%20Files)
 The main Vensim model file (.mdl) and other supplementary Vensim files used for analysis (e.g. changes and savelist files).
 
+### [Sensitivity Analysis](Sensitivity%20Analysis)
+Data, model, and results files used for sensitivity analysis correcting for potential mischaracterization or under-reporting of opioid overdoses. Includes corrected data files, model files for recalibration, and analysis results.
+
 ---
 
 This analysis utilizes a modified version of [**SOURCE**, the FDA opioid systems model](https://github.com/FDA/SOURCE/), as published in [Lim et al. 2022](https://doi.org/10.1073/pnas.2115714119) and [Stringfellow et al. 2022](https://doi.org/10.1126/sciadv.abm8147).

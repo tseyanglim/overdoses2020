@@ -1,0 +1,44 @@
+:OPTIMIZER=Powell
+:SENSITIVITY=Off
+:MULTIPLE_START=RRandom
+:RANDOM_NUMBER=Default
+:SEED=1
+:OUTPUT_LEVEL=On
+:TRACE=Off
+:MAX_ITERATIONS=1000
+:RESTART_MAX=10
+:PASS_LIMIT=2
+:FRACTIONAL_TOLERANCE=1e-07
+:TOLERANCE_MULTIPLIER=21
+:ABSOLUTE_TOLERANCE=1
+:SCALE_ABSOLUTE=1
+:VECTOR_POINTS=25
+:MCLIMIT=0
+:MCJUMP=0.05
+:MCBURNIN=0
+:MCDELTA=0.0001
+:MCTEMP=1
+:MCNCHAINS=2
+:MCUPDATEPAIRS=2
+:MCSCHEDULE=0
+:MCOUTLIER=0.05
+:MCXOVER=0.2
+:MCCOOLING=1000
+:MCINITMETHOD=0
+:MCPAYOFFTYPE=0
+:MCGAMMA=1
+:MCRECORD=0
+:MCKNN=0
+:MCEPSILON=0.01
+:MCFTEMP=1
+0.8<=Base survival probability H OD relative to Rx<=1
+0.9<=Base survival probability Rx OD<=0.99
+0.2<=Fentanyl effect on base survival max relative to H=0.6<=0.8
+2<=Fentanyl effect on OD rate H max=5<=7
+0.5<=Fraction Nx kits to H users <=0.95
+0.0001<=Nx kit distribution efficiency<=0.002
+0.05<=Overdose rate base HUD<=0.2
+0.25<=Overdose rate NDHU relative to HUD<=1
+0.001<=Overdose rate base Rx misuse=0.01<=0.025
+0.025<=Overdose rate base Rx OUD<=0.4
+0.005<=Overdose rate synth baseline<=0.1

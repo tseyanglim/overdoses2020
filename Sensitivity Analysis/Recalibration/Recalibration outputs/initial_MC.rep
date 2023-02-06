@@ -1,0 +1,357 @@
+The payoff is -1.06306e+14
+The following are the components of the payoff:
+Type	Component	Contribution	Percent	Values	Params&Data	Used	Skipped
+*P	BaseErr[Gaussian,RMis]/1	-8.30281e+13	78.1029	-8.30281e+13	0	337	0
+*P	BaseErr[Gaussian,HUD]/1	-8.06427e+12	7.5859	-8.06427e+12	0	337	0
+*P	BaseErr[Gaussian,ROUD]/1	-6.57772e+12	6.18754	-6.57772e+12	0	337	0
+*P	BaseErr[Gaussian,NDHU]/1	-5.81011e+12	5.46546	-5.81011e+12	0	337	0
+*P	BaseErr[Gaussian,InRD]/1	-1.02398e+12	0.963234	-1.02398e+12	0	337	0
+*P	BaseErr[Gaussian,InHT]/1	-7.87735e+11	0.741007	-7.87735e+11	0	337	0
+*P	BaseErr[Gaussian,ROUH]/1	-2.17526e+11	0.204623	-2.17526e+11	0	337	0
+*P	BaseErr[Gaussian,InRM]/1	-1.79631e+11	0.168975	-1.79631e+11	0	337	0
+*P	BaseErr[Gaussian,InHO]/1	-1.42665e+11	0.134202	-1.42665e+11	0	337	0
+*P	BaseErr[Gaussian,InHR]/1	-1.36368e+11	0.128279	-1.36368e+11	0	337	0
+*P	PriorErr[ReSO]/1	-1.00441e+11	0.0944831	-1.00441e+11	0	337	0
+*P	BaseErr[Gaussian,InHD]/1	-8.51952e+10	0.0801415	-8.51952e+10	0	337	0
+*P	PriorErr[ReSH]/1	-3.8066e+10	0.0358079	-3.8066e+10	0	337	0
+*P	PriorErr[RemH]/1	-3.79819e+10	0.0357288	-3.79819e+10	0	337	0
+*P	BaseErr[Gaussian,TxMt]/1	-3.26755e+10	0.0307372	-3.26755e+10	0	337	0
+*P	BaseErr[Gaussian,TxBp]/1	-2.03842e+10	0.019175	-2.03842e+10	0	337	0
+*P	PriorErr[RemO]/1	-8.53036e+09	0.00802435	-8.53036e+09	0	337	0
+*P	BaseErr[Gaussian,ODTo]/1	-7.60557e+09	0.00715441	-7.60557e+09	0	337	0
+*P	BaseErr[Gaussian,ODHC]/1	-4.46403e+09	0.00419923	-4.46403e+09	0	337	0
+*P	BaseErr[Gaussian,ODRB]/1	-2.41783e+09	0.00227441	-2.41783e+09	0	337	0
+*P	BaseErr[Gaussian,ODSB]/1	-7.41754e+07	6.97754e-05	-7.41754e+07	0	337	0
+*P	BaseErr[Gaussian,TxVi]/1	-4.63541e+07	4.36044e-05	-4.63541e+07	0	337	0
+*P	PriorErr[NFRR]/1	-229.795	2.16164e-10	-229.795	0	337	0
+*P	PriorErr[NFRH]/1	-34.1422	3.21169e-11	-34.1422	0	337	0
+*P	PriorErr[DFRB]/1	-0.00995249	9.36212e-15	-0.00995249	0	337	0
+*P	PriorErr[NxHF]/1	-0.0012851	1.20887e-15	-0.0012851	0	337	0
+*P	PriorErr[PNxH]/1	-5.4973e-06	5.1712e-18	-5.4973e-06	0	337	0
+*P	BaseErr[LogGauss,RMis]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,ROUD]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,ReSH]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,ROUD]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,RemO]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,NDHU]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,ReSO]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,NxHF]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,TxVi]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,ROUH]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,RemH]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,HUD]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,TxMt]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,InRM]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,TxMt]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,RMis]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,TxBp]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,TxBp]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,InHT]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,InRD]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,HUD]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,PNxH]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,InRD]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,InHD]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,NDHU]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,InHT]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,InRM]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,ROUH]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,ReSH]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,InHR]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,TxVi]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,InHD]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,ReSO]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,RMis]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,InHO]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,DFRB]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,RemH]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,InHR]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,ODTo]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,ROUD]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,RemO]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,ODRB]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,ODSB]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,NFRR]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,NxHF]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,ROUH]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,ODHC]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,PNxH]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,DFRB]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,NFRH]/1	0	-0	0	0	337	0
+*P	BaseErr[NegBin,ODRB]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,NDHU]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,NFRH]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,PNxH]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,TxBp]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,InHO]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,NFRR]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,HUD]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,InRD]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,NxHF]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,ODTo]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,DFRB]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,InRM]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,InHT]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,ODSB]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,RemO]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,TxVi]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,ODHC]/1	0	-0	0	0	337	0
+*P	PriorErr[InHR]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,InHD]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,TxMt]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,RemH]/1	0	-0	0	0	337	0
+*P	PriorErr[InHD]/1	0	-0	0	0	337	0
+*P	PriorErr[InHO]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,ReSH]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,NFRH]/1	0	-0	0	0	337	0
+*P	PriorErr[InHT]/1	0	-0	0	0	337	0
+*P	BaseErr[LogGauss,ReSO]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,ODSB]/1	0	-0	0	0	337	0
+*P	PriorErr[ODRB]/1	0	-0	0	0	337	0
+*P	PriorErr[InRD]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,RMis]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,ODHC]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,ODTo]/1	0	-0	0	0	337	0
+*P	PriorErr[InRM]/1	0	-0	0	0	337	0
+*P	PriorErr[ODHC]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,ODRB]/1	0	-0	0	0	337	0
+*P	PriorErr[TxVi]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,TxMt]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,NFRR]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,InHO]/1	0	-0	0	0	337	0
+*P	PriorErr[ODSB]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,TxBp]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,TxVi]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,NFRR]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,InHR]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,HUD]/1	0	-0	0	0	337	0
+*P	PriorErr[ODTo]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,NxHF]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,InRM]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,NDHU]/1	0	-0	0	0	337	0
+*P	PriorErr[TxMt]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,PNxH]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,RemO]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,ROUH]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,InRD]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,DFRB]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,ROUD]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,NFRH]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,RemH]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,NFRH]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,InHT]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,NFRR]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,DFRB]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,InHR]/1	0	-0	0	0	337	0
+*P	PriorErr[TxBp]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,ODTo]/1	0	-0	0	0	337	0
+*P	BaseErr[Normal,InHD]/1	0	-0	0	0	337	0
+*P	PriorErr[ROUH]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,PNxH]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,ODSB]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,InHO]/1	0	-0	0	0	337	0
+*P	PriorErr[ROUD]/1	0	-0	0	0	337	0
+*P	PriorErr[NDHU]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,ODHC]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,NxHF]/1	0	-0	0	0	337	0
+*P	PriorErr[RMis]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,ODRB]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,RemH]/1	0	-0	0	0	337	0
+*P	PriorErr[HUD]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,ReSH]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,RemO]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,ReSH]/1	0	-0	0	0	337	0
+*P	BaseErr[MAPE,ReSO]/1	0	-0	0	0	337	0
+*P	BaseErr[Gaussian,ReSO]/1	0	-0	0	0	337	0
+
+Sources for exogenous variables
+ADF fraction of prescribed Rx opioids base	inputtimeseries.vdf
+Average days per prescription DATA	inputtimeseries.vdf
+Average duration of medical opioid use DATA	inputtimeseries.vdf
+Average MME per day DATA	inputtimeseries.vdf
+Avg MME per opioid Rx IQVIA	inputtimeseries.vdf
+Bup providers DATA	inputtimeseries.vdf
+DataVarBase[ROUD]	inputtimeseries.vdf
+DataVarBase[ROUH]	inputtimeseries.vdf
+DataVarBase[NDHU]	inputtimeseries.vdf
+DataVarBase[HUD]	inputtimeseries.vdf
+DataVarBase[TxBp]	inputtimeseries.vdf
+DataVarBase[TxMt]	inputtimeseries.vdf
+DataVarBase[TxVi]	inputtimeseries.vdf
+DataVarBase[InRD]	inputtimeseries.vdf
+DataVarBase[InHT]	inputtimeseries.vdf
+DataVarBase[InHD]	inputtimeseries.vdf
+DataVarBase[InHR]	inputtimeseries.vdf
+DataVarBase[InHO]	inputtimeseries.vdf
+DataVarBase[ODRB]	inputtimeseries.vdf
+DataVarBase[ODTo]	inputtimeseries.vdf
+Fentanyl penetration curve NFLIS	inputtimeseries.vdf
+Fraction of all heroin users with HUD DATA	inputtimeseries.vdf
+Fraction of heroin initiation no Rx DATA	inputtimeseries.vdf
+Fraction of heroin initiation with Rx misuse DATA	inputtimeseries.vdf
+Fraction of heroin initiation with Rx OUD DATA	inputtimeseries.vdf
+Fraction of HUD who use Rx NSDUH	inputtimeseries.vdf
+Fraction of NDHU who use Rx NSDUH	inputtimeseries.vdf
+Heroin price index DATA	inputtimeseries.vdf
+HUD DATA	inputtimeseries.vdf
+HUD NSDUH RAND	validationtimeseries.vdf
+HUD NSDUH RAND alternative	validationtimeseries.vdf
+Initiating heroin no Rx DATA	validationtimeseries.vdf
+Initiating heroin no Rx NSDUH RDAS RAND	validationtimeseries.vdf
+Initiating heroin with Rx misuse DATA	validationtimeseries.vdf
+Initiating heroin with Rx misuse NSDUH RDAS RAND	validationtimeseries.vdf
+Initiating heroin with Rx OUD DATA	validationtimeseries.vdf
+Initiating heroin with Rx OUD NSDUH RDAS RAND	validationtimeseries.vdf
+Initiating Rx misuse diverted RDAS SAMHSA	validationtimeseries.vdf
+Initiating Rx misuse own Rx RDAS SAMHSA	validationtimeseries.vdf
+IsYear[Y99]	yearsubs.vdf
+IsYear[Y00]	yearsubs.vdf
+IsYear[Y01]	yearsubs.vdf
+IsYear[Y02]	yearsubs.vdf
+IsYear[Y03]	yearsubs.vdf
+IsYear[Y04]	yearsubs.vdf
+IsYear[Y05]	yearsubs.vdf
+IsYear[Y06]	yearsubs.vdf
+IsYear[Y07]	yearsubs.vdf
+IsYear[Y08]	yearsubs.vdf
+IsYear[Y09]	yearsubs.vdf
+IsYear[Y10]	yearsubs.vdf
+IsYear[Y11]	yearsubs.vdf
+IsYear[Y12]	yearsubs.vdf
+IsYear[Y13]	yearsubs.vdf
+IsYear[Y14]	yearsubs.vdf
+IsYear[Y15]	yearsubs.vdf
+IsYear[Y16]	yearsubs.vdf
+IsYear[Y17]	yearsubs.vdf
+IsYear[Y18]	yearsubs.vdf
+IsYear[Y19]	yearsubs.vdf
+IsYear[Y20]	yearsubs.vdf
+IsYear[Y21]	yearsubs.vdf
+IsYear[Y22]	yearsubs.vdf
+IsYear[Y23]	yearsubs.vdf
+IsYear[Y24]	yearsubs.vdf
+IsYear[Y25]	yearsubs.vdf
+IsYear[Y26]	yearsubs.vdf
+IsYear[Y27]	yearsubs.vdf
+IsYear[Y28]	yearsubs.vdf
+IsYear[Y29]	yearsubs.vdf
+IsYear[Y30]	yearsubs.vdf
+IsYear[Y31]	yearsubs.vdf
+IsYear[Y32]	yearsubs.vdf
+MMT capacity estimated DATA	yearsubs.vdf
+Nondisordered heroin use DATA	yearsubs.vdf
+Nondisordered heroin use NSDUH RAND	validationtimeseries.vdf
+Nx kits distributed HR IQVIA	inputtimeseries.vdf
+Patients receiving opioid prescription annual IQVIA	inputtimeseries.vdf
+Patients with current month opioid Rx IQVIA	monthlytimeseries.vdf
+Population	inputtimeseries.vdf
+Prescriptions per person DATA	inputtimeseries.vdf
+Projection input data[Fent]	inputtimeseries.vdf
+Projection input data[NxKD]	inputtimeseries.vdf
+Projection input data[HPI]	inputtimeseries.vdf
+Projection input data[BMDCap]	inputtimeseries.vdf
+Projection input data[MMTCap]	inputtimeseries.vdf
+Projection input data[VivCap]	inputtimeseries.vdf
+Projection input data[PtRx]	inputtimeseries.vdf
+Projection input data[RxPP]	inputtimeseries.vdf
+Projection input data[RxDur]	inputtimeseries.vdf
+Projection input data[MME]	inputtimeseries.vdf
+Projection input data[ADF]	inputtimeseries.vdf
+Rx misuse no PY heroin NSDUH	validationtimeseries.vdf
+Rx OUD all total DATA	validationtimeseries.vdf
+Rx OUD no PY heroin NSDUH	validationtimeseries.vdf
+Rx OUD with PY heroin DATA	validationtimeseries.vdf
+Rx OUD with PY heroin NSDUH RAND	validationtimeseries.vdf
+Total heroin initiation DATA	validationtimeseries.vdf
+Total heroin initiation SAMHSA RAND	validationtimeseries.vdf
+Total heroin users DATA	validationtimeseries.vdf
+Total nondisordered heroin users DATA	validationtimeseries.vdf
+Total overdose deaths base heroin NVSS	validationtimeseries.vdf
+Total overdose deaths base Rx NVSS	validationtimeseries.vdf
+Total overdose deaths NVSS	validationtimeseries.vdf
+Total overdose deaths synth heroin NVSS	validationtimeseries.vdf
+Total overdose deaths synth no H NVSS	validationtimeseries.vdf
+Total prescription opioid Rx IQVIA	inputtimeseries.vdf
+Total Rx misuse initiation SAMHSA	validationtimeseries.vdf
+Total Rx MME prescribed IQVIA	inputtimeseries.vdf
+Total with UD DATA	inputtimeseries.vdf
+Tx monthly patients Bup IQVIA TPT	monthlytimeseries.vdf
+Tx point patients Bup DATA	monthlytimeseries.vdf
+Tx point patients OTP MMT NSSATS	inputtimeseries.vdf
+Tx point patients Viv IQVIA	inputtimeseries.vdf
+Viv capacity estimated DATA	inputtimeseries.vdf
+
+External sources for Constant values
+ADF effect strength initiating heroin with Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Base survival probability H OD relative to Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Base survival probability Rx OD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Developing HUD rate no Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Developing HUD rate with Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Developing Rx OUD rate	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Fentanyl effect on base survival max relative to H	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Fentanyl effect on OD rate H max	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Fraction Nx kits to H users	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Heroin availability strength developing HUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Heroin availability strength initiating NDHU no Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Heroin availability strength net quit NDHU	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[RXM]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[NDH]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OUB]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OUM]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OUV]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OUT]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OUR]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OUS]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OHB]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OHM]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OHV]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OHT]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OHR]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[OHS]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[HUB]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[HUM]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[HUV]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[HUT]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[HUR]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initial stock correction[HUS]	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initiating heroin no Rx base	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initiating Rx misuse diverted base	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initiation rate heroin with Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initiation rate heroin with Rx OUD relative to Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Initiation rate Rx misuse own Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Net quit rate heroin with Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Net quit rate heroin with Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Net quit rate NDHU	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Net quit rate Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+NSDUH misuse redefinition fixed effect	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Nx kit distribution efficiency	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Overdose rate base HUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Overdose rate base Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Overdose rate base Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Overdose rate NDHU relative to HUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Overdose rate synth baseline	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Perceived risk strength initiating heroin with Rx use	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Perceived risk strength initiating NDHU no Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Perceived risk strength initiating Rx misuse diverted	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Perceived risk strength initiating Rx misuse own Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Perceived risk strength net quit heroin with Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Perceived risk strength net quit NDHU	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Perceived risk strength net quit NDHU with Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Perceived risk strength net quit Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Relapse rate HUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Relapse rate Rx OUD relative to HUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Remission rate Rx OUD relative to HUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Rx availability strength developing Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Rx availability strength initiating Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Rx availability strength net quit Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Rx vs H availability strength developing HUD with Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Rx vs H availability strength initiating heroin with Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Rx vs H availability strength initiating NDHU with Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Social influence strength developing HUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Social influence strength developing Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Social influence strength initiating heroin with Rx OUD	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Social influence strength initiating NDHU no Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Social influence strength initiating NDHU with Rx	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Social influence strength initiating Rx misuse	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Time to stabilize remission	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
+Tx seeking rate Rx OUD no H total	C:\Users\erins\Partners HealthCare\TEAMS FDA Opioid modeling team - Opioid Model\Modeling files\PolicyAnalysis\COVID analysis\covid_IterCal\covid2_IterCal\covid2_main_MC.out
